@@ -1,0 +1,8 @@
+2026-02-04 19:13:35.6240 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2026-02-04 19:13:37.8752 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2026-02-04 19:13:38.1225 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2026-02-04 19:13:38.8616 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2026-02-04 19:13:38.9327 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2026-02-04 19:13:38.9463 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2026-02-04 19:13:38.9633 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2026-02-04 19:13:38.9872 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 

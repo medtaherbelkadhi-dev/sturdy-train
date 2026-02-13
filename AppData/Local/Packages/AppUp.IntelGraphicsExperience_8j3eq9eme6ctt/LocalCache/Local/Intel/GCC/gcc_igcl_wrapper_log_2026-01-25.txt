@@ -1,0 +1,4 @@
+2026-01-25 16:08:41 |Error| GetSetDpst. Failed with error code: 0x48000005. ErrorMessage: Failed to Set DPST for display: 8388688
+2026-01-25 16:08:41 |Error| GetSetDpst. Failed with error code: 0x48000005. ErrorMessage: Failed to Set DPST for display: 8388688
+2026-01-25 21:29:51 |Error| GetSetDpst. Failed with error code: 0x48000005. ErrorMessage: Failed to Set DPST for display: 8388688
+2026-01-25 21:29:51 |Error| GetSetDpst. Failed with error code: 0x48000005. ErrorMessage: Failed to Set DPST for display: 8388688

@@ -1,0 +1,224 @@
+﻿2026-02-06 13:48:39.946 INFO  [18392] [InitLog@123] -------------------------------- create a new logger!
+2026-02-06 13:48:39.946 INFO  [18392] [InitLog@124] processName = HP.OMEN.VirtualCamHelper
+2026-02-06 13:48:39.946 INFO  [18392] [InitLog@139] -------------------------------- InitLog(), version = 1101.2602.2.0
+2026-02-06 13:48:39.946 INFO  [18392] [InitLog@140] Process Path: C:\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2602.2.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\HP.OMEN.VirtualCamHelper.exe
+2026-02-06 13:48:39.946 INFO  [18392] [CreatePipeServer@114] enter function: CreatePipeServer()
+2026-02-06 13:48:39.946 INFO  [18392] [StartMainThread@591] enter function: StartMainThread()
+2026-02-06 13:48:39.947 INFO  [24800] [PipeServerThread@104] enter function: PipeServerThread()
+2026-02-06 13:48:39.947 INFO  [13452] [CaptureThread@478] enter function: CaptureThread()
+2026-02-06 13:48:39.947 INFO  [24800] [NamedPipeServer::Create@207] NamedPipeServer::Create()
+2026-02-06 13:48:39.947 INFO  [13452] [SharedMemory::Init@5] enter function: SharedMemory::Init()
+2026-02-06 13:48:39.947 INFO  [24800] [NamedPipeServer::CreateAndConnectInstance@44] NamedPipeServer::CreateAndConnectInstance()
+2026-02-06 13:48:39.947 INFO  [24800] [NamedPipeServer::CreateAndConnectInstance@51] pipeName: \\.\pipe\hpvirtualcamera_fte4
+2026-02-06 13:48:39.947 INFO  [24800] [NamedPipeServer::ConnectToNewClient@81] NamedPipeServer::CreateAndConnectInstance()
+2026-02-06 13:48:39.947 INFO  [24800] [NamedPipeServer::Create@233] WaitForSingleObjectEx()
+2026-02-06 13:48:39.948 INFO  [13452] [CaptureThread@492] CaptureThread: CreateMutex(mutex_getNvVfxLib_vcam)
+2026-02-06 13:48:39.948 INFO  [13452] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-06 13:48:39.948 INFO  [13452] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-06 13:48:39.948 INFO  [13452] [ProcessCameraCommand@163] command: 16
+2026-02-06 13:48:39.948 INFO  [13452] [ProcessCameraCommand@398] g_isStore = 1
+2026-02-06 13:48:39.948 INFO  [13452] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-06 13:48:39.948 INFO  [13452] [CaptureThread@569] CaptureThread: ReleaseMutex(mutex_getNvVfxLib_vcam)
+2026-02-06 13:48:40.002 INFO  [13452] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-06 13:48:40.002 INFO  [13452] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-06 13:48:40.002 INFO  [13452] [ProcessCameraCommand@163] command: 11
+2026-02-06 13:48:40.002 INFO  [13452] [ProcessCameraCommand@292] camCmdSetResolution: width = 1920, height = 1080, fps = 30
+2026-02-06 13:48:40.002 INFO  [13452] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-06 13:48:40.064 INFO  [13452] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-06 13:48:40.064 INFO  [13452] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-06 13:48:40.064 INFO  [13452] [ProcessCameraCommand@163] command: 2
+2026-02-06 13:48:40.064 INFO  [13452] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-06 13:48:40.064 INFO  [13452] [ProcessCameraCommand@163] command: 13
+2026-02-06 13:48:40.064 INFO  [13452] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-10 13:04:03.202 INFO  [24432] [InitLog@123] -------------------------------- create a new logger!
+2026-02-10 13:04:03.202 INFO  [24432] [InitLog@124] processName = HP.OMEN.VirtualCamHelper
+2026-02-10 13:04:03.202 INFO  [24432] [InitLog@139] -------------------------------- InitLog(), version = 1101.2602.2.0
+2026-02-10 13:04:03.202 INFO  [24432] [InitLog@140] Process Path: C:\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2602.2.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\HP.OMEN.VirtualCamHelper.exe
+2026-02-10 13:04:03.202 INFO  [24432] [CreatePipeServer@114] enter function: CreatePipeServer()
+2026-02-10 13:04:03.202 INFO  [24432] [StartMainThread@591] enter function: StartMainThread()
+2026-02-10 13:04:03.203 INFO  [26260] [CaptureThread@478] enter function: CaptureThread()
+2026-02-10 13:04:03.203 INFO  [26260] [SharedMemory::Init@5] enter function: SharedMemory::Init()
+2026-02-10 13:04:03.203 INFO  [10920] [PipeServerThread@104] enter function: PipeServerThread()
+2026-02-10 13:04:03.203 INFO  [10920] [NamedPipeServer::Create@207] NamedPipeServer::Create()
+2026-02-10 13:04:03.203 INFO  [10920] [NamedPipeServer::CreateAndConnectInstance@44] NamedPipeServer::CreateAndConnectInstance()
+2026-02-10 13:04:03.203 INFO  [10920] [NamedPipeServer::CreateAndConnectInstance@51] pipeName: \\.\pipe\hpvirtualcamera_fte6
+2026-02-10 13:04:03.204 INFO  [10920] [NamedPipeServer::ConnectToNewClient@81] NamedPipeServer::CreateAndConnectInstance()
+2026-02-10 13:04:03.204 INFO  [10920] [NamedPipeServer::Create@233] WaitForSingleObjectEx()
+2026-02-10 13:04:03.206 INFO  [26260] [CaptureThread@492] CaptureThread: CreateMutex(mutex_getNvVfxLib_vcam)
+2026-02-10 13:04:03.206 INFO  [26260] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-10 13:04:03.206 INFO  [26260] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-10 13:04:03.206 INFO  [26260] [ProcessCameraCommand@163] command: 16
+2026-02-10 13:04:03.206 INFO  [26260] [ProcessCameraCommand@398] g_isStore = 1
+2026-02-10 13:04:03.206 INFO  [26260] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-10 13:04:03.206 INFO  [26260] [CaptureThread@569] CaptureThread: ReleaseMutex(mutex_getNvVfxLib_vcam)
+2026-02-10 13:04:03.289 INFO  [26260] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-10 13:04:03.289 INFO  [26260] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-10 13:04:03.289 INFO  [26260] [ProcessCameraCommand@163] command: 11
+2026-02-10 13:04:03.289 INFO  [26260] [ProcessCameraCommand@292] camCmdSetResolution: width = 1920, height = 1080, fps = 30
+2026-02-10 13:04:03.289 INFO  [26260] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-10 13:04:03.417 INFO  [26260] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-10 13:04:03.417 INFO  [26260] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-10 13:04:03.417 INFO  [26260] [ProcessCameraCommand@163] command: 2
+2026-02-10 13:04:03.417 INFO  [26260] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-10 13:04:03.417 INFO  [26260] [ProcessCameraCommand@163] command: 13
+2026-02-10 13:04:03.417 INFO  [26260] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-12 09:03:55.766 INFO  [25844] [InitLog@123] -------------------------------- create a new logger!
+2026-02-12 09:03:55.766 INFO  [25844] [InitLog@124] processName = HP.OMEN.VirtualCamHelper
+2026-02-12 09:03:55.766 INFO  [25844] [InitLog@139] -------------------------------- InitLog(), version = 1101.2602.2.0
+2026-02-12 09:03:55.766 INFO  [25844] [InitLog@140] Process Path: C:\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2602.2.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\HP.OMEN.VirtualCamHelper.exe
+2026-02-12 09:03:55.766 INFO  [25844] [CreatePipeServer@114] enter function: CreatePipeServer()
+2026-02-12 09:03:55.766 INFO  [25844] [StartMainThread@591] enter function: StartMainThread()
+2026-02-12 09:03:55.767 INFO  [15864] [CaptureThread@478] enter function: CaptureThread()
+2026-02-12 09:03:55.767 INFO  [15864] [SharedMemory::Init@5] enter function: SharedMemory::Init()
+2026-02-12 09:03:55.767 INFO  [15252] [PipeServerThread@104] enter function: PipeServerThread()
+2026-02-12 09:03:55.767 INFO  [15252] [NamedPipeServer::Create@207] NamedPipeServer::Create()
+2026-02-12 09:03:55.767 INFO  [15252] [NamedPipeServer::CreateAndConnectInstance@44] NamedPipeServer::CreateAndConnectInstance()
+2026-02-12 09:03:55.767 INFO  [15252] [NamedPipeServer::CreateAndConnectInstance@51] pipeName: \\.\pipe\hpvirtualcamera_fte7
+2026-02-12 09:03:55.767 INFO  [15252] [NamedPipeServer::ConnectToNewClient@81] NamedPipeServer::CreateAndConnectInstance()
+2026-02-12 09:03:55.767 INFO  [15252] [NamedPipeServer::Create@233] WaitForSingleObjectEx()
+2026-02-12 09:03:55.768 INFO  [15864] [CaptureThread@492] CaptureThread: CreateMutex(mutex_getNvVfxLib_vcam)
+2026-02-12 09:03:55.768 INFO  [15864] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-12 09:03:55.768 INFO  [15864] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-12 09:03:55.768 INFO  [15864] [ProcessCameraCommand@163] command: 16
+2026-02-12 09:03:55.768 INFO  [15864] [ProcessCameraCommand@398] g_isStore = 1
+2026-02-12 09:03:55.768 INFO  [15864] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-12 09:03:55.768 INFO  [15864] [CaptureThread@569] CaptureThread: ReleaseMutex(mutex_getNvVfxLib_vcam)
+2026-02-12 09:03:55.824 INFO  [15864] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-12 09:03:55.824 INFO  [15864] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-12 09:03:55.824 INFO  [15864] [ProcessCameraCommand@163] command: 11
+2026-02-12 09:03:55.824 INFO  [15864] [ProcessCameraCommand@292] camCmdSetResolution: width = 1920, height = 1080, fps = 30
+2026-02-12 09:03:55.824 INFO  [15864] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-12 09:03:55.873 INFO  [15864] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-12 09:03:55.873 INFO  [15864] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-12 09:03:55.873 INFO  [15864] [ProcessCameraCommand@163] command: 2
+2026-02-12 09:03:55.873 INFO  [15864] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-12 09:03:55.873 INFO  [15864] [ProcessCameraCommand@163] command: 13
+2026-02-12 09:03:55.873 INFO  [15864] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-12 11:04:31.690 INFO  [14532] [InitLog@123] -------------------------------- create a new logger!
+2026-02-12 11:04:31.691 INFO  [14532] [InitLog@124] processName = HP.OMEN.VirtualCamHelper
+2026-02-12 11:04:31.691 INFO  [14532] [InitLog@139] -------------------------------- InitLog(), version = 1101.2602.2.0
+2026-02-12 11:04:31.691 INFO  [14532] [InitLog@140] Process Path: C:\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2602.2.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\HP.OMEN.VirtualCamHelper.exe
+2026-02-12 11:04:31.691 INFO  [14532] [CreatePipeServer@114] enter function: CreatePipeServer()
+2026-02-12 11:04:31.691 INFO  [14532] [StartMainThread@591] enter function: StartMainThread()
+2026-02-12 11:04:31.691 INFO  [15380] [CaptureThread@478] enter function: CaptureThread()
+2026-02-12 11:04:31.691 INFO  [15380] [SharedMemory::Init@5] enter function: SharedMemory::Init()
+2026-02-12 11:04:31.691 INFO  [15376] [PipeServerThread@104] enter function: PipeServerThread()
+2026-02-12 11:04:31.691 INFO  [15376] [NamedPipeServer::Create@207] NamedPipeServer::Create()
+2026-02-12 11:04:31.691 INFO  [15376] [NamedPipeServer::CreateAndConnectInstance@44] NamedPipeServer::CreateAndConnectInstance()
+2026-02-12 11:04:31.691 INFO  [15376] [NamedPipeServer::CreateAndConnectInstance@51] pipeName: \\.\pipe\hpvirtualcamera_fte1
+2026-02-12 11:04:31.691 INFO  [15376] [NamedPipeServer::ConnectToNewClient@81] NamedPipeServer::CreateAndConnectInstance()
+2026-02-12 11:04:31.691 INFO  [15376] [NamedPipeServer::Create@233] WaitForSingleObjectEx()
+2026-02-12 11:04:31.692 INFO  [15380] [CaptureThread@492] CaptureThread: CreateMutex(mutex_getNvVfxLib_vcam)
+2026-02-12 11:04:31.692 INFO  [15380] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-12 11:04:31.692 INFO  [15380] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-12 11:04:31.692 INFO  [15380] [ProcessCameraCommand@163] command: 16
+2026-02-12 11:04:31.692 INFO  [15380] [ProcessCameraCommand@398] g_isStore = 1
+2026-02-12 11:04:31.692 INFO  [15380] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-12 11:04:31.692 INFO  [15380] [CaptureThread@569] CaptureThread: ReleaseMutex(mutex_getNvVfxLib_vcam)
+2026-02-12 11:04:31.725 INFO  [15380] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-12 11:04:31.725 INFO  [15380] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-12 11:04:31.725 INFO  [15380] [ProcessCameraCommand@163] command: 11
+2026-02-12 11:04:31.725 INFO  [15380] [ProcessCameraCommand@292] camCmdSetResolution: width = 1920, height = 1080, fps = 30
+2026-02-12 11:04:31.725 INFO  [15380] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-12 11:04:31.819 INFO  [15380] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-12 11:04:31.819 INFO  [15380] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-12 11:04:31.819 INFO  [15380] [ProcessCameraCommand@163] command: 2
+2026-02-12 11:04:31.819 INFO  [15380] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-12 11:04:31.819 INFO  [15380] [ProcessCameraCommand@163] command: 13
+2026-02-12 11:04:31.819 INFO  [15380] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-12 20:54:16.958 INFO  [14084] [InitLog@123] -------------------------------- create a new logger!
+2026-02-12 20:54:16.958 INFO  [14084] [InitLog@124] processName = HP.OMEN.VirtualCamHelper
+2026-02-12 20:54:16.958 INFO  [14084] [InitLog@139] -------------------------------- InitLog(), version = 1101.2602.2.0
+2026-02-12 20:54:16.958 INFO  [14084] [InitLog@140] Process Path: C:\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2602.2.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\HP.OMEN.VirtualCamHelper.exe
+2026-02-12 20:54:16.958 INFO  [14084] [CreatePipeServer@114] enter function: CreatePipeServer()
+2026-02-12 20:54:16.958 INFO  [14084] [StartMainThread@591] enter function: StartMainThread()
+2026-02-12 20:54:16.959 INFO  [12984] [CaptureThread@478] enter function: CaptureThread()
+2026-02-12 20:54:16.959 INFO  [12776] [PipeServerThread@104] enter function: PipeServerThread()
+2026-02-12 20:54:16.959 INFO  [12984] [SharedMemory::Init@5] enter function: SharedMemory::Init()
+2026-02-12 20:54:16.959 INFO  [12776] [NamedPipeServer::Create@207] NamedPipeServer::Create()
+2026-02-12 20:54:16.959 INFO  [12776] [NamedPipeServer::CreateAndConnectInstance@44] NamedPipeServer::CreateAndConnectInstance()
+2026-02-12 20:54:16.959 INFO  [12776] [NamedPipeServer::CreateAndConnectInstance@51] pipeName: \\.\pipe\hpvirtualcamera_fte2
+2026-02-12 20:54:16.959 INFO  [12776] [NamedPipeServer::ConnectToNewClient@81] NamedPipeServer::CreateAndConnectInstance()
+2026-02-12 20:54:16.959 INFO  [12776] [NamedPipeServer::Create@233] WaitForSingleObjectEx()
+2026-02-12 20:54:16.960 INFO  [12984] [CaptureThread@492] CaptureThread: CreateMutex(mutex_getNvVfxLib_vcam)
+2026-02-12 20:54:16.960 INFO  [12984] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-12 20:54:16.960 INFO  [12984] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-12 20:54:16.961 INFO  [12984] [ProcessCameraCommand@163] command: 16
+2026-02-12 20:54:16.961 INFO  [12984] [ProcessCameraCommand@398] g_isStore = 1
+2026-02-12 20:54:16.961 INFO  [12984] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-12 20:54:16.961 INFO  [12984] [CaptureThread@569] CaptureThread: ReleaseMutex(mutex_getNvVfxLib_vcam)
+2026-02-12 20:54:17.016 INFO  [12984] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-12 20:54:17.016 INFO  [12984] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-12 20:54:17.016 INFO  [12984] [ProcessCameraCommand@163] command: 11
+2026-02-12 20:54:17.016 INFO  [12984] [ProcessCameraCommand@292] camCmdSetResolution: width = 1920, height = 1080, fps = 30
+2026-02-12 20:54:17.016 INFO  [12984] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-12 20:54:17.079 INFO  [12984] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-12 20:54:17.079 INFO  [12984] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-12 20:54:17.079 INFO  [12984] [ProcessCameraCommand@163] command: 2
+2026-02-12 20:54:17.079 INFO  [12984] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-12 20:54:17.079 INFO  [12984] [ProcessCameraCommand@163] command: 13
+2026-02-12 20:54:17.079 INFO  [12984] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-12 22:15:04.152 INFO  [14600] [InitLog@123] -------------------------------- create a new logger!
+2026-02-12 22:15:04.153 INFO  [14600] [InitLog@124] processName = HP.OMEN.VirtualCamHelper
+2026-02-12 22:15:04.153 INFO  [14600] [InitLog@139] -------------------------------- InitLog(), version = 1101.2602.2.0
+2026-02-12 22:15:04.153 INFO  [14600] [InitLog@140] Process Path: C:\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2602.2.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\HP.OMEN.VirtualCamHelper.exe
+2026-02-12 22:15:04.153 INFO  [14600] [CreatePipeServer@114] enter function: CreatePipeServer()
+2026-02-12 22:15:04.153 INFO  [14600] [StartMainThread@591] enter function: StartMainThread()
+2026-02-12 22:15:04.153 INFO  [14856] [PipeServerThread@104] enter function: PipeServerThread()
+2026-02-12 22:15:04.153 INFO  [6784] [CaptureThread@478] enter function: CaptureThread()
+2026-02-12 22:15:04.153 INFO  [6784] [SharedMemory::Init@5] enter function: SharedMemory::Init()
+2026-02-12 22:15:04.153 INFO  [14856] [NamedPipeServer::Create@207] NamedPipeServer::Create()
+2026-02-12 22:15:04.153 INFO  [14856] [NamedPipeServer::CreateAndConnectInstance@44] NamedPipeServer::CreateAndConnectInstance()
+2026-02-12 22:15:04.154 INFO  [14856] [NamedPipeServer::CreateAndConnectInstance@51] pipeName: \\.\pipe\hpvirtualcamera_fte3
+2026-02-12 22:15:04.154 INFO  [14856] [NamedPipeServer::ConnectToNewClient@81] NamedPipeServer::CreateAndConnectInstance()
+2026-02-12 22:15:04.154 INFO  [14856] [NamedPipeServer::Create@233] WaitForSingleObjectEx()
+2026-02-12 22:15:04.154 INFO  [6784] [CaptureThread@492] CaptureThread: CreateMutex(mutex_getNvVfxLib_vcam)
+2026-02-12 22:15:04.154 INFO  [6784] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-12 22:15:04.154 INFO  [6784] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-12 22:15:04.154 INFO  [6784] [ProcessCameraCommand@163] command: 16
+2026-02-12 22:15:04.155 INFO  [6784] [ProcessCameraCommand@398] g_isStore = 1
+2026-02-12 22:15:04.155 INFO  [6784] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-12 22:15:04.155 INFO  [6784] [CaptureThread@569] CaptureThread: ReleaseMutex(mutex_getNvVfxLib_vcam)
+2026-02-12 22:15:04.205 INFO  [6784] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-12 22:15:04.205 INFO  [6784] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-12 22:15:04.205 INFO  [6784] [ProcessCameraCommand@163] command: 11
+2026-02-12 22:15:04.205 INFO  [6784] [ProcessCameraCommand@292] camCmdSetResolution: width = 1920, height = 1080, fps = 30
+2026-02-12 22:15:04.205 INFO  [6784] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-12 22:15:04.268 INFO  [6784] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-12 22:15:04.268 INFO  [6784] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-12 22:15:04.268 INFO  [6784] [ProcessCameraCommand@163] command: 2
+2026-02-12 22:15:04.268 INFO  [6784] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-12 22:15:04.268 INFO  [6784] [ProcessCameraCommand@163] command: 13
+2026-02-12 22:15:04.268 INFO  [6784] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-13 13:58:06.714 INFO  [11072] [InitLog@123] -------------------------------- create a new logger!
+2026-02-13 13:58:06.714 INFO  [11072] [InitLog@124] processName = HP.OMEN.VirtualCamHelper
+2026-02-13 13:58:06.714 INFO  [11072] [InitLog@139] -------------------------------- InitLog(), version = 1101.2602.2.0
+2026-02-13 13:58:06.714 INFO  [11072] [InitLog@140] Process Path: C:\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2602.2.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\HP.OMEN.VirtualCamHelper.exe
+2026-02-13 13:58:06.714 INFO  [11072] [CreatePipeServer@114] enter function: CreatePipeServer()
+2026-02-13 13:58:06.714 INFO  [11072] [StartMainThread@591] enter function: StartMainThread()
+2026-02-13 13:58:06.715 INFO  [17152] [PipeServerThread@104] enter function: PipeServerThread()
+2026-02-13 13:58:06.715 INFO  [17152] [NamedPipeServer::Create@207] NamedPipeServer::Create()
+2026-02-13 13:58:06.715 INFO  [17152] [NamedPipeServer::CreateAndConnectInstance@44] NamedPipeServer::CreateAndConnectInstance()
+2026-02-13 13:58:06.715 INFO  [17152] [NamedPipeServer::CreateAndConnectInstance@51] pipeName: \\.\pipe\hpvirtualcamera_fte4
+2026-02-13 13:58:06.715 INFO  [17152] [NamedPipeServer::ConnectToNewClient@81] NamedPipeServer::CreateAndConnectInstance()
+2026-02-13 13:58:06.715 INFO  [17152] [NamedPipeServer::Create@233] WaitForSingleObjectEx()
+2026-02-13 13:58:06.715 INFO  [21648] [CaptureThread@478] enter function: CaptureThread()
+2026-02-13 13:58:06.715 INFO  [21648] [SharedMemory::Init@5] enter function: SharedMemory::Init()
+2026-02-13 13:58:06.718 INFO  [21648] [CaptureThread@492] CaptureThread: CreateMutex(mutex_getNvVfxLib_vcam)
+2026-02-13 13:58:06.718 INFO  [21648] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-13 13:58:06.718 INFO  [21648] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-13 13:58:06.718 INFO  [21648] [ProcessCameraCommand@163] command: 16
+2026-02-13 13:58:06.718 INFO  [21648] [ProcessCameraCommand@398] g_isStore = 1
+2026-02-13 13:58:06.718 INFO  [21648] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-13 13:58:06.718 INFO  [21648] [CaptureThread@569] CaptureThread: ReleaseMutex(mutex_getNvVfxLib_vcam)
+2026-02-13 13:58:06.771 INFO  [21648] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-13 13:58:06.771 INFO  [21648] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-13 13:58:06.771 INFO  [21648] [ProcessCameraCommand@163] command: 11
+2026-02-13 13:58:06.771 INFO  [21648] [ProcessCameraCommand@292] camCmdSetResolution: width = 1920, height = 1080, fps = 30
+2026-02-13 13:58:06.771 INFO  [21648] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)
+2026-02-13 13:58:06.835 INFO  [21648] [ProcessCameraCommand@144] ProcessCameraCommand: CreateMutex(mutex_previewLoad_vam)
+2026-02-13 13:58:06.835 INFO  [21648] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-13 13:58:06.835 INFO  [21648] [ProcessCameraCommand@163] command: 2
+2026-02-13 13:58:06.835 INFO  [21648] [ProcessCameraCommand@149] enter function: ProcessCameraCommand()
+2026-02-13 13:58:06.835 INFO  [21648] [ProcessCameraCommand@163] command: 13
+2026-02-13 13:58:06.835 INFO  [21648] [ProcessCameraCommand@407] ProcessCameraCommand: ReleaseMutex(mutex_previewLoad_vam)

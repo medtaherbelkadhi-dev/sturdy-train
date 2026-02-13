@@ -1,0 +1,61 @@
+create table chambre (
+    numchambre nombre(8) primary key,
+    prix nombre(4.2) not null,
+    nbrlit nombre(2),
+    confort char(1) check (confort in ('A', 'B', 'C')) not null,
+);
+create table client (
+    numclient nombre(8) primary key,
+    nom varchar(50),
+    prenom varchar(50),
+    ville varchar(50),
+);
+create table reservation(
+    numreservation nombre(8) primary key,
+    datearrivee date,
+    datedepart date,
+    numclient nombre(8) ,
+    numchambre nombre(8) ,
+    constraint fk_client foreign key (numclient) references client(numclient),
+    constraint fk_chambre foreign key (numchambre) references chambre(numchambre),
+); 
+insert into chambre (numchambre, prix, nbrlit, confort) values (101, 80.50, 3, 'c');
+insert into chambre (numchambre, prix, nbrlit, confort) values (102, 70.25, 2, 'B');
+insert into chambre (numchambre, prix, nbrlit, confort) values (103, 100, 2, 'A');
+insert into chambre (numchambre, prix, nbrlit, confort) values (104, 60, 2, 'C');
+insert into chambre (numchambre, prix, nbrlit, confort) values (105, 150, 3, 'A');
+
+insert into client (numclient, nom, prenom, ville) values (1001, 'Dupond', 'sam', 'Paris');
+insert into client (numclient, nom, prenom, ville) values (1002, 'Marchal', 'Michel', 'Paris');
+insert into client (numclient, nom, prenom, ville) values (1003, 'Sergueil', 'Marc', 'Nice');
+
+alter session set nls_date_format = 'DD-MM-yyyy';
+insert into reservation (numreservation, datearrivee, datedepart, numclient, numchambre) values (1, '15-06-2025', '24-06-2025', 1001, 101);
+insert into reservation (numreservation, datearrivee, datedepart, numclient, numchambre) values (2, '15-06-2025', '19-06-2025', 1002, 102);
+insert into reservation (numreservation, datearrivee, datedepart, numclient, numchambre) values (3, '16-06-2025', '20-06-2025', 1003, 103);
+insert into reservation (numreservation, datearrivee, datedepart, numclient, numchambre) values (4, '20-12-2025', '22-12-2025', 1002, 104);
+
+A
+select c.numclient, c.nom, c.prenom, count(r.numreservation) as nombre_reservations
+from client c
+join reservation r on c.numclient = r.numclient
+group by c.numclient, c.nom, c.prenom;
+
+B
+select c.numclient, c.nom, c.prenom, min(datedepart - datearrivee) as plus_court_sejour
+from client c   
+join reservation r on c.numclient = r.numclient 
+group by c.numclient, c.nom, c.prenom   
+order by plus_court_sejour asc limit 1; 
+C
+select nom as "Nom", prenom as "Prenom", ville as "Ville"
+from client;    
+D
+select *
+from chambre ch
+where ch.numchambre not in (select r.numchambre from reservation r);
+E
+select ch.numchambre, ch.prix, ch.nbrlit, ch.confort, r.datearrivee, r.datedepart
+from chambre ch
+left join reservation r on ch.numchambre = r.numchambre
+where r.numchambre is null;

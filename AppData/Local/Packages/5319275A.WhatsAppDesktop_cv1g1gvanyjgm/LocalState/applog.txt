@@ -1,0 +1,10 @@
+[?? X P:13720 T:006404 D:-1 13-02-26 14:00:27.873 INFO] Logging started
+[?? X P:13720 T:006404 D:-1 13-02-26 14:00:27.873 INFO] Logging started
+[?? X P:13720 T:020536 D:00 13-02-26 14:00:27.967 WARN] MediaFilesService/Initialize > Cannot initialize MediaFilesService: ClientKey is null
+[?? X P:13720 T:013164 D:-1 13-02-26 14:00:27.985 WARN] voip > wa_media_api.c  Warning: codec priority set failed for AMR, status: 70006
+[?? X P:13720 T:013164 D:-1 13-02-26 14:00:27.985 WARN] voip > wa_media_api.c  Warning: codec priority set failed for PCMU, status: 70006
+[?? X P:13720 T:013164 D:-1 13-02-26 14:00:27.989 WARN] voip > device_manager_win.cp  [Stateful] No default device found with ID []
+[?? X P:13720 T:006404 D:00 13-02-26 14:00:27.998 WARN] WebLifecycleController/CreatePushNotificationChannelWithRetryAsync > Starting attempt 1
+[?? X P:13720 T:006404 D:00 13-02-26 14:00:28.001 WARN] WebLifecycleController/CreatePushNotificationChannelWithRetryAsync > Finished attempt 1
+[?? W P:13720 T:008952 D:00 13-02-26 14:02:30.109 WARN] WebContentUpdateManager/TryUpdate > Update [Session: Id: 1, Revision: , FailuresCount: 0], status: IncompleteLaunch, health: Unknown
+[?? W P:13720 T:008952 D:00 13-02-26 14:02:30.110 WARN] WebContentUpdateManager/TryUpdate > Update Ignored [Session: Id: 1, Revision: , FailuresCount: 0]

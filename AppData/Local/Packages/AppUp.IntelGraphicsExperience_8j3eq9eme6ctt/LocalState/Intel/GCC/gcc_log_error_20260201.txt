@@ -1,0 +1,6 @@
+2026-02-01 03:51:12.939 +01:00 [ERR] 	DesktopBridgeService. Error getting the data. Failed request command: UI_SUSPENDED
+2026-02-01 03:51:12.945 +01:00 [ERR] 	DesktopBridgeService. Response status is: Failure
+2026-02-01 03:51:12.948 +01:00 [ERR] 	DesktopBridgeRequest. DesktopBridgeUtil. DesktopBridgeRequestException. Call UI_SUSPENDED.failed to send desktop bridge message Exception:Request UI_SUSPENDED failed with status Failure
+2026-02-01 21:57:48.797 +01:00 [ERR] 	DesktopBridgeService. Error getting the data. Failed request command: UI_SUSPENDED
+2026-02-01 21:57:48.825 +01:00 [ERR] 	DesktopBridgeService. Response status is: Failure
+2026-02-01 21:57:48.829 +01:00 [ERR] 	DesktopBridgeRequest. DesktopBridgeUtil. DesktopBridgeRequestException. Call UI_SUSPENDED.failed to send desktop bridge message Exception:Request UI_SUSPENDED failed with status Failure

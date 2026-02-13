@@ -1,0 +1,1532 @@
+﻿2024-11-13 15:04:57.271 INFO  [3532] [InitLog@251] -------------------------------- create a new logger!
+2024-11-13 15:04:57.272 INFO  [3532] [InitLog@252] processName = msedge
+2024-11-13 15:04:57.272 INFO  [3532] [InitLog@269] -------------------------------- InitLog()
+2024-11-13 15:04:57.272 INFO  [3532] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-11-13 15:04:57.272 INFO  [3532] [QueryConfig@29] QueryConfig()
+2024-11-13 15:04:57.272 INFO  [3532] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2024-11-13 15:04:57.272 INFO  [3532] [QueryConfig@58] Width = 640
+2024-11-13 15:04:57.272 INFO  [3532] [QueryConfig@59] Height = 480
+2024-11-13 15:04:57.272 INFO  [3532] [QueryConfig@60] Fps = 30
+2024-11-13 15:04:57.272 INFO  [3532] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2024-11-13 15:04:57.272 INFO  [3532] [CVCam::CVCam@355] CVCam::CVCam()
+2024-11-13 15:04:57.272 INFO  [3532] [CVCamStream::CVCamStream@394] CVCamStream()
+2024-11-13 15:04:57.272 INFO  [3532] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2024-11-13 15:04:57.272 INFO  [3532] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2024-11-13 15:04:57.272 INFO  [3532] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2024-11-13 15:04:57.272 INFO  [3532] [CVCamStream::Get@827] CVCamStream::Get()
+2024-11-13 15:04:57.273 INFO  [3532] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2024-11-13 15:04:57.273 INFO  [3532] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2024-11-13 15:04:57.273 INFO  [3532] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2024-11-13 15:04:57.273 INFO  [3532] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2024-11-13 15:04:57.273 INFO  [3532] [CVCam::~CVCam@366] CVCam::~CVCam()
+2024-11-13 15:04:57.273 INFO  [3532] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2024-11-22 19:50:11.545 INFO  [3356] [InitLog@251] -------------------------------- create a new logger!
+2024-11-22 19:50:11.546 INFO  [3356] [InitLog@252] processName = msedge
+2024-11-22 19:50:11.546 INFO  [3356] [InitLog@269] -------------------------------- InitLog()
+2024-11-22 19:50:11.546 INFO  [3356] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-11-22 19:50:11.546 INFO  [3356] [QueryConfig@29] QueryConfig()
+2024-11-22 19:50:11.547 INFO  [3356] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2024-11-22 19:50:11.547 INFO  [3356] [QueryConfig@58] Width = 1920
+2024-11-22 19:50:11.547 INFO  [3356] [QueryConfig@59] Height = 1080
+2024-11-22 19:50:11.547 INFO  [3356] [QueryConfig@60] Fps = 30
+2024-11-22 19:50:11.547 INFO  [3356] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2024-11-22 19:50:11.547 INFO  [3356] [CVCam::CVCam@355] CVCam::CVCam()
+2024-11-22 19:50:11.547 INFO  [3356] [CVCamStream::CVCamStream@394] CVCamStream()
+2024-11-22 19:50:11.547 INFO  [3356] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2024-11-22 19:50:11.547 INFO  [3356] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2024-11-22 19:50:11.547 INFO  [3356] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2024-11-22 19:50:11.547 INFO  [3356] [CVCamStream::Get@827] CVCamStream::Get()
+2024-11-22 19:50:11.547 INFO  [3356] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2024-11-22 19:50:11.547 INFO  [3356] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2024-11-22 19:50:11.547 INFO  [3356] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2024-11-22 19:50:11.547 INFO  [3356] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2024-11-22 19:50:11.547 INFO  [3356] [CVCam::~CVCam@366] CVCam::~CVCam()
+2024-11-22 19:50:11.547 INFO  [3356] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2024-11-22 19:52:37.496 INFO  [21068] [InitLog@251] -------------------------------- create a new logger!
+2024-11-22 19:52:37.496 INFO  [21068] [InitLog@252] processName = msedge
+2024-11-22 19:52:37.496 INFO  [21068] [InitLog@269] -------------------------------- InitLog()
+2024-11-22 19:52:37.496 INFO  [21068] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-11-22 19:52:37.496 INFO  [21068] [QueryConfig@29] QueryConfig()
+2024-11-22 19:52:37.496 INFO  [21068] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2024-11-22 19:52:37.496 INFO  [21068] [QueryConfig@58] Width = 1920
+2024-11-22 19:52:37.496 INFO  [21068] [QueryConfig@59] Height = 1080
+2024-11-22 19:52:37.496 INFO  [21068] [QueryConfig@60] Fps = 30
+2024-11-22 19:52:37.496 INFO  [21068] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2024-11-22 19:52:37.496 INFO  [21068] [CVCam::CVCam@355] CVCam::CVCam()
+2024-11-22 19:52:37.496 INFO  [21068] [CVCamStream::CVCamStream@394] CVCamStream()
+2024-11-22 19:52:37.496 INFO  [21068] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2024-11-22 19:52:37.496 INFO  [21068] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2024-11-22 19:52:37.496 INFO  [21068] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2024-11-22 19:52:37.496 INFO  [21068] [CVCamStream::Get@827] CVCamStream::Get()
+2024-11-22 19:52:37.496 INFO  [21068] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2024-11-22 19:52:37.496 INFO  [21068] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2024-11-22 19:52:37.496 INFO  [21068] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2024-11-22 19:52:37.496 INFO  [21068] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2024-11-22 19:52:37.496 INFO  [21068] [CVCam::~CVCam@366] CVCam::~CVCam()
+2024-11-22 19:52:37.496 INFO  [21068] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2024-11-22 19:53:43.570 INFO  [21068] [InitLog@228] -------------------------------- using existing logger!
+2024-11-22 19:53:43.570 INFO  [21068] [InitLog@269] -------------------------------- InitLog()
+2024-11-22 19:53:43.570 INFO  [21068] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-11-22 19:53:43.570 INFO  [21068] [QueryConfig@29] QueryConfig()
+2024-11-22 19:53:43.570 INFO  [21068] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2024-11-22 19:53:43.570 INFO  [21068] [QueryConfig@58] Width = 1920
+2024-11-22 19:53:43.570 INFO  [21068] [QueryConfig@59] Height = 1080
+2024-11-22 19:53:43.570 INFO  [21068] [QueryConfig@60] Fps = 30
+2024-11-22 19:53:43.570 INFO  [21068] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2024-11-22 19:53:43.570 INFO  [21068] [CVCam::CVCam@355] CVCam::CVCam()
+2024-11-22 19:53:43.570 INFO  [21068] [CVCamStream::CVCamStream@394] CVCamStream()
+2024-11-22 19:53:43.570 INFO  [21068] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2024-11-22 19:53:43.570 INFO  [21068] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2024-11-22 19:53:43.570 INFO  [21068] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2024-11-22 19:53:43.570 INFO  [21068] [CVCamStream::Get@827] CVCamStream::Get()
+2024-11-22 19:53:43.570 INFO  [21068] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2024-11-22 19:53:43.570 INFO  [21068] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2024-11-22 19:53:43.570 INFO  [21068] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2024-11-22 19:53:43.570 INFO  [21068] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2024-11-22 19:53:43.570 INFO  [21068] [CVCam::~CVCam@366] CVCam::~CVCam()
+2024-11-22 19:53:43.570 INFO  [21068] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2024-12-17 22:25:32.365 INFO  [20732] [InitLog@251] -------------------------------- create a new logger!
+2024-12-17 22:25:32.365 INFO  [20732] [InitLog@252] processName = msedge
+2024-12-17 22:25:32.365 INFO  [20732] [InitLog@269] -------------------------------- InitLog()
+2024-12-17 22:25:32.365 INFO  [20732] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-12-17 22:25:32.365 INFO  [20732] [QueryConfig@29] QueryConfig()
+2024-12-17 22:25:32.365 INFO  [20732] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2024-12-17 22:25:32.365 INFO  [20732] [QueryConfig@58] Width = 1920
+2024-12-17 22:25:32.365 INFO  [20732] [QueryConfig@59] Height = 1080
+2024-12-17 22:25:32.365 INFO  [20732] [QueryConfig@60] Fps = 30
+2024-12-17 22:25:32.365 INFO  [20732] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2024-12-17 22:25:32.365 INFO  [20732] [CVCam::CVCam@355] CVCam::CVCam()
+2024-12-17 22:25:32.365 INFO  [20732] [CVCamStream::CVCamStream@394] CVCamStream()
+2024-12-17 22:25:32.365 INFO  [20732] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2024-12-17 22:25:32.365 INFO  [20732] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2024-12-17 22:25:32.365 INFO  [20732] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2024-12-17 22:25:32.365 INFO  [20732] [CVCamStream::Get@827] CVCamStream::Get()
+2024-12-17 22:25:32.366 INFO  [20732] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2024-12-17 22:25:32.366 INFO  [20732] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2024-12-17 22:25:32.366 INFO  [20732] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2024-12-17 22:25:32.366 INFO  [20732] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2024-12-17 22:25:32.366 INFO  [20732] [CVCam::~CVCam@366] CVCam::~CVCam()
+2024-12-17 22:25:32.366 INFO  [20732] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-02-19 09:28:33.832 INFO  [10032] [InitLog@251] -------------------------------- create a new logger!
+2025-02-19 09:28:33.834 INFO  [10032] [InitLog@252] processName = msedge
+2025-02-19 09:28:33.834 INFO  [10032] [InitLog@269] -------------------------------- InitLog()
+2025-02-19 09:28:33.834 INFO  [10032] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-02-19 09:28:33.834 INFO  [10032] [QueryConfig@29] QueryConfig()
+2025-02-19 09:28:33.834 INFO  [10032] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-02-19 09:28:33.834 INFO  [10032] [QueryConfig@58] Width = 1920
+2025-02-19 09:28:33.834 INFO  [10032] [QueryConfig@59] Height = 1080
+2025-02-19 09:28:33.834 INFO  [10032] [QueryConfig@60] Fps = 30
+2025-02-19 09:28:33.834 INFO  [10032] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-02-19 09:28:33.834 INFO  [10032] [CVCam::CVCam@355] CVCam::CVCam()
+2025-02-19 09:28:33.834 INFO  [10032] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-02-19 09:28:33.834 INFO  [10032] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-02-19 09:28:33.834 INFO  [10032] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-02-19 09:28:33.834 INFO  [10032] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-02-19 09:28:33.834 INFO  [10032] [CVCamStream::Get@827] CVCamStream::Get()
+2025-02-19 09:28:33.834 INFO  [10032] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-02-19 09:28:33.834 INFO  [10032] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-02-19 09:28:33.834 INFO  [10032] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-02-19 09:28:33.834 INFO  [10032] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-02-19 09:28:33.834 INFO  [10032] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-02-19 09:28:33.834 INFO  [10032] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-03-06 15:23:37.825 INFO  [18732] [InitLog@251] -------------------------------- create a new logger!
+2025-03-06 15:23:37.828 INFO  [18732] [InitLog@252] processName = msedge
+2025-03-06 15:23:37.828 INFO  [18732] [InitLog@269] -------------------------------- InitLog()
+2025-03-06 15:23:37.828 INFO  [18732] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-03-06 15:23:37.828 INFO  [18732] [QueryConfig@29] QueryConfig()
+2025-03-06 15:23:37.828 INFO  [18732] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-03-06 15:23:37.828 INFO  [18732] [QueryConfig@58] Width = 1920
+2025-03-06 15:23:37.828 INFO  [18732] [QueryConfig@59] Height = 1080
+2025-03-06 15:23:37.828 INFO  [18732] [QueryConfig@60] Fps = 30
+2025-03-06 15:23:37.828 INFO  [18732] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-03-06 15:23:37.828 INFO  [18732] [CVCam::CVCam@355] CVCam::CVCam()
+2025-03-06 15:23:37.828 INFO  [18732] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-03-06 15:23:37.828 INFO  [18732] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-03-06 15:23:37.828 INFO  [18732] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-03-06 15:23:37.828 INFO  [18732] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-03-06 15:23:37.828 INFO  [18732] [CVCamStream::Get@827] CVCamStream::Get()
+2025-03-06 15:23:37.829 INFO  [18732] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-03-06 15:23:37.829 INFO  [18732] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-03-06 15:23:37.829 INFO  [18732] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-03-06 15:23:37.829 INFO  [18732] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-03-06 15:23:37.829 INFO  [18732] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-03-06 15:23:37.829 INFO  [18732] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-03-07 07:48:55.905 INFO  [10528] [InitLog@251] -------------------------------- create a new logger!
+2025-03-07 07:48:55.906 INFO  [10528] [InitLog@252] processName = msedge
+2025-03-07 07:48:55.906 INFO  [10528] [InitLog@269] -------------------------------- InitLog()
+2025-03-07 07:48:55.906 INFO  [10528] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-03-07 07:48:55.906 INFO  [10528] [QueryConfig@29] QueryConfig()
+2025-03-07 07:48:55.906 INFO  [10528] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-03-07 07:48:55.906 INFO  [10528] [QueryConfig@58] Width = 1920
+2025-03-07 07:48:55.906 INFO  [10528] [QueryConfig@59] Height = 1080
+2025-03-07 07:48:55.906 INFO  [10528] [QueryConfig@60] Fps = 30
+2025-03-07 07:48:55.906 INFO  [10528] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-03-07 07:48:55.906 INFO  [10528] [CVCam::CVCam@355] CVCam::CVCam()
+2025-03-07 07:48:55.906 INFO  [10528] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-03-07 07:48:55.906 INFO  [10528] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-03-07 07:48:55.906 INFO  [10528] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-03-07 07:48:55.906 INFO  [10528] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-03-07 07:48:55.906 INFO  [10528] [CVCamStream::Get@827] CVCamStream::Get()
+2025-03-07 07:48:55.906 INFO  [10528] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-03-07 07:48:55.906 INFO  [10528] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-03-07 07:48:55.906 INFO  [10528] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-03-07 07:48:55.906 INFO  [10528] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-03-07 07:48:55.906 INFO  [10528] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-03-07 07:48:55.906 INFO  [10528] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-03-07 09:03:39.746 INFO  [10528] [InitLog@228] -------------------------------- using existing logger!
+2025-03-07 09:03:39.746 INFO  [10528] [InitLog@269] -------------------------------- InitLog()
+2025-03-07 09:03:39.746 INFO  [10528] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-03-07 09:03:39.746 INFO  [10528] [QueryConfig@29] QueryConfig()
+2025-03-07 09:03:39.746 INFO  [10528] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-03-07 09:03:39.747 INFO  [10528] [QueryConfig@58] Width = 1920
+2025-03-07 09:03:39.747 INFO  [10528] [QueryConfig@59] Height = 1080
+2025-03-07 09:03:39.747 INFO  [10528] [QueryConfig@60] Fps = 30
+2025-03-07 09:03:39.747 INFO  [10528] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-03-07 09:03:39.747 INFO  [10528] [CVCam::CVCam@355] CVCam::CVCam()
+2025-03-07 09:03:39.747 INFO  [10528] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-03-07 09:03:39.747 INFO  [10528] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-03-07 09:03:39.747 INFO  [10528] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-03-07 09:03:39.747 INFO  [10528] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-03-07 09:03:39.747 INFO  [10528] [CVCamStream::Get@827] CVCamStream::Get()
+2025-03-07 09:03:39.747 INFO  [10528] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-03-07 09:03:39.747 INFO  [10528] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-03-07 09:03:39.747 INFO  [10528] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-03-07 09:03:39.747 INFO  [10528] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-03-07 09:03:39.747 INFO  [10528] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-03-07 09:03:39.747 INFO  [10528] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-03-14 13:35:19.903 INFO  [16208] [InitLog@251] -------------------------------- create a new logger!
+2025-03-14 13:35:19.912 INFO  [16208] [InitLog@252] processName = msedge
+2025-03-14 13:35:19.913 INFO  [16208] [InitLog@269] -------------------------------- InitLog()
+2025-03-14 13:35:19.913 INFO  [16208] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-03-14 13:35:19.913 INFO  [16208] [QueryConfig@29] QueryConfig()
+2025-03-14 13:35:19.913 INFO  [16208] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-03-14 13:35:19.913 INFO  [16208] [QueryConfig@58] Width = 1920
+2025-03-14 13:35:19.913 INFO  [16208] [QueryConfig@59] Height = 1080
+2025-03-14 13:35:19.913 INFO  [16208] [QueryConfig@60] Fps = 30
+2025-03-14 13:35:19.913 INFO  [16208] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-03-14 13:35:19.913 INFO  [16208] [CVCam::CVCam@355] CVCam::CVCam()
+2025-03-14 13:35:19.913 INFO  [16208] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-03-14 13:35:19.913 INFO  [16208] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-03-14 13:35:19.913 INFO  [16208] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-03-14 13:35:19.913 INFO  [16208] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-03-14 13:35:19.913 INFO  [16208] [CVCamStream::Get@827] CVCamStream::Get()
+2025-03-14 13:35:19.913 INFO  [16208] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-03-14 13:35:19.913 INFO  [16208] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-03-14 13:35:19.913 INFO  [16208] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-03-14 13:35:19.914 INFO  [16208] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-03-14 13:35:19.914 INFO  [16208] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-03-14 13:35:19.914 INFO  [16208] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-03-14 14:05:31.214 INFO  [16208] [InitLog@228] -------------------------------- using existing logger!
+2025-03-14 14:05:31.214 INFO  [16208] [InitLog@269] -------------------------------- InitLog()
+2025-03-14 14:05:31.214 INFO  [16208] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-03-14 14:05:31.214 INFO  [16208] [QueryConfig@29] QueryConfig()
+2025-03-14 14:05:31.214 INFO  [16208] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-03-14 14:05:31.215 INFO  [16208] [QueryConfig@58] Width = 1920
+2025-03-14 14:05:31.215 INFO  [16208] [QueryConfig@59] Height = 1080
+2025-03-14 14:05:31.215 INFO  [16208] [QueryConfig@60] Fps = 30
+2025-03-14 14:05:31.215 INFO  [16208] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-03-14 14:05:31.215 INFO  [16208] [CVCam::CVCam@355] CVCam::CVCam()
+2025-03-14 14:05:31.215 INFO  [16208] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-03-14 14:05:31.215 INFO  [16208] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-03-14 14:05:31.215 INFO  [16208] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-03-14 14:05:31.215 INFO  [16208] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-03-14 14:05:31.215 INFO  [16208] [CVCamStream::Get@827] CVCamStream::Get()
+2025-03-14 14:05:31.215 INFO  [16208] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-03-14 14:05:31.215 INFO  [16208] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-03-14 14:05:31.215 INFO  [16208] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-03-14 14:05:31.215 INFO  [16208] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-03-14 14:05:31.215 INFO  [16208] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-03-14 14:05:31.216 INFO  [16208] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-04-07 10:45:08.575 INFO  [16908] [InitLog@251] -------------------------------- create a new logger!
+2025-04-07 10:45:08.576 INFO  [16908] [InitLog@252] processName = msedge
+2025-04-07 10:45:08.576 INFO  [16908] [InitLog@269] -------------------------------- InitLog()
+2025-04-07 10:45:08.576 INFO  [16908] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-04-07 10:45:08.576 INFO  [16908] [QueryConfig@29] QueryConfig()
+2025-04-07 10:45:08.576 INFO  [16908] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-04-07 10:45:08.576 INFO  [16908] [QueryConfig@58] Width = 1920
+2025-04-07 10:45:08.576 INFO  [16908] [QueryConfig@59] Height = 1080
+2025-04-07 10:45:08.576 INFO  [16908] [QueryConfig@60] Fps = 30
+2025-04-07 10:45:08.576 INFO  [16908] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-04-07 10:45:08.576 INFO  [16908] [CVCam::CVCam@355] CVCam::CVCam()
+2025-04-07 10:45:08.576 INFO  [16908] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-04-07 10:45:08.576 INFO  [16908] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-04-07 10:45:08.576 INFO  [16908] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-07 10:45:08.576 INFO  [16908] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-07 10:45:08.576 INFO  [16908] [CVCamStream::Get@827] CVCamStream::Get()
+2025-04-07 10:45:08.577 INFO  [16908] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-07 10:45:08.577 INFO  [16908] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-07 10:45:08.577 INFO  [16908] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-04-07 10:45:08.577 INFO  [16908] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-04-07 10:45:08.577 INFO  [16908] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-04-07 10:45:08.577 INFO  [16908] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-04-09 17:12:42.682 INFO  [6728] [InitLog@251] -------------------------------- create a new logger!
+2025-04-09 17:12:42.683 INFO  [6728] [InitLog@252] processName = msedge
+2025-04-09 17:12:42.683 INFO  [6728] [InitLog@269] -------------------------------- InitLog()
+2025-04-09 17:12:42.683 INFO  [6728] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-04-09 17:12:42.683 INFO  [6728] [QueryConfig@29] QueryConfig()
+2025-04-09 17:12:42.683 INFO  [6728] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-04-09 17:12:42.683 INFO  [6728] [QueryConfig@58] Width = 1920
+2025-04-09 17:12:42.683 INFO  [6728] [QueryConfig@59] Height = 1080
+2025-04-09 17:12:42.683 INFO  [6728] [QueryConfig@60] Fps = 30
+2025-04-09 17:12:42.683 INFO  [6728] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-04-09 17:12:42.683 INFO  [6728] [CVCam::CVCam@355] CVCam::CVCam()
+2025-04-09 17:12:42.683 INFO  [6728] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-04-09 17:12:42.683 INFO  [6728] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-04-09 17:12:42.683 INFO  [6728] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-09 17:12:42.683 INFO  [6728] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-09 17:12:42.683 INFO  [6728] [CVCamStream::Get@827] CVCamStream::Get()
+2025-04-09 17:12:42.683 INFO  [6728] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-09 17:12:42.683 INFO  [6728] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-09 17:12:42.683 INFO  [6728] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-04-09 17:12:42.683 INFO  [6728] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-04-09 17:12:42.683 INFO  [6728] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-04-09 17:12:42.683 INFO  [6728] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-04-14 13:13:29.664 INFO  [2204] [InitLog@251] -------------------------------- create a new logger!
+2025-04-14 13:13:29.665 INFO  [2204] [InitLog@252] processName = msedge
+2025-04-14 13:13:29.666 INFO  [2204] [InitLog@269] -------------------------------- InitLog()
+2025-04-14 13:13:29.666 INFO  [2204] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-04-14 13:13:29.666 INFO  [2204] [QueryConfig@29] QueryConfig()
+2025-04-14 13:13:29.666 INFO  [2204] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-04-14 13:13:29.666 INFO  [2204] [QueryConfig@58] Width = 1920
+2025-04-14 13:13:29.666 INFO  [2204] [QueryConfig@59] Height = 1080
+2025-04-14 13:13:29.666 INFO  [2204] [QueryConfig@60] Fps = 30
+2025-04-14 13:13:29.666 INFO  [2204] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-04-14 13:13:29.666 INFO  [2204] [CVCam::CVCam@355] CVCam::CVCam()
+2025-04-14 13:13:29.666 INFO  [2204] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-04-14 13:13:29.666 INFO  [2204] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-04-14 13:13:29.666 INFO  [2204] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-14 13:13:29.666 INFO  [2204] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-14 13:13:29.666 INFO  [2204] [CVCamStream::Get@827] CVCamStream::Get()
+2025-04-14 13:13:29.666 INFO  [2204] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-14 13:13:29.666 INFO  [2204] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-14 13:13:29.666 INFO  [2204] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-04-14 13:13:29.666 INFO  [2204] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-04-14 13:13:29.666 INFO  [2204] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-04-14 13:13:29.666 INFO  [2204] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-04-16 10:42:00.835 INFO  [16600] [InitLog@251] -------------------------------- create a new logger!
+2025-04-16 10:42:00.836 INFO  [16600] [InitLog@252] processName = msedge
+2025-04-16 10:42:00.836 INFO  [16600] [InitLog@269] -------------------------------- InitLog()
+2025-04-16 10:42:00.836 INFO  [16600] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-04-16 10:42:00.836 INFO  [16600] [QueryConfig@29] QueryConfig()
+2025-04-16 10:42:00.836 INFO  [16600] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-04-16 10:42:00.836 INFO  [16600] [QueryConfig@58] Width = 1920
+2025-04-16 10:42:00.836 INFO  [16600] [QueryConfig@59] Height = 1080
+2025-04-16 10:42:00.836 INFO  [16600] [QueryConfig@60] Fps = 30
+2025-04-16 10:42:00.836 INFO  [16600] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-04-16 10:42:00.836 INFO  [16600] [CVCam::CVCam@355] CVCam::CVCam()
+2025-04-16 10:42:00.836 INFO  [16600] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-04-16 10:42:00.836 INFO  [16600] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-04-16 10:42:00.837 INFO  [16600] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-16 10:42:00.837 INFO  [16600] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-16 10:42:00.837 INFO  [16600] [CVCamStream::Get@827] CVCamStream::Get()
+2025-04-16 10:42:00.837 INFO  [16600] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-16 10:42:00.837 INFO  [16600] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-16 10:42:00.837 INFO  [16600] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-04-16 10:42:00.837 INFO  [16600] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-04-16 10:42:00.837 INFO  [16600] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-04-16 10:42:00.837 INFO  [16600] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-04-16 14:21:35.536 INFO  [17304] [InitLog@251] -------------------------------- create a new logger!
+2025-04-16 14:21:35.539 INFO  [17304] [InitLog@252] processName = msedge
+2025-04-16 14:21:35.539 INFO  [17304] [InitLog@269] -------------------------------- InitLog()
+2025-04-16 14:21:35.539 INFO  [17304] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-04-16 14:21:35.539 INFO  [17304] [QueryConfig@29] QueryConfig()
+2025-04-16 14:21:35.539 INFO  [17304] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-04-16 14:21:35.540 INFO  [17304] [QueryConfig@58] Width = 1920
+2025-04-16 14:21:35.540 INFO  [17304] [QueryConfig@59] Height = 1080
+2025-04-16 14:21:35.540 INFO  [17304] [QueryConfig@60] Fps = 30
+2025-04-16 14:21:35.540 INFO  [17304] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-04-16 14:21:35.540 INFO  [17304] [CVCam::CVCam@355] CVCam::CVCam()
+2025-04-16 14:21:35.540 INFO  [17304] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-04-16 14:21:35.540 INFO  [17304] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-04-16 14:21:35.540 INFO  [17304] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-16 14:21:35.540 INFO  [17304] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-16 14:21:35.540 INFO  [17304] [CVCamStream::Get@827] CVCamStream::Get()
+2025-04-16 14:21:35.540 INFO  [17304] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-16 14:21:35.540 INFO  [17304] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-16 14:21:35.540 INFO  [17304] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-04-16 14:21:35.540 INFO  [17304] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-04-16 14:21:35.540 INFO  [17304] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-04-16 14:21:35.540 INFO  [17304] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-04-16 14:50:34.491 INFO  [17304] [InitLog@228] -------------------------------- using existing logger!
+2025-04-16 14:50:34.492 INFO  [17304] [InitLog@269] -------------------------------- InitLog()
+2025-04-16 14:50:34.492 INFO  [17304] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-04-16 14:50:34.492 INFO  [17304] [QueryConfig@29] QueryConfig()
+2025-04-16 14:50:34.492 INFO  [17304] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-04-16 14:50:34.493 INFO  [17304] [QueryConfig@58] Width = 1920
+2025-04-16 14:50:34.493 INFO  [17304] [QueryConfig@59] Height = 1080
+2025-04-16 14:50:34.493 INFO  [17304] [QueryConfig@60] Fps = 30
+2025-04-16 14:50:34.493 INFO  [17304] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-04-16 14:50:34.493 INFO  [17304] [CVCam::CVCam@355] CVCam::CVCam()
+2025-04-16 14:50:34.493 INFO  [17304] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-04-16 14:50:34.493 INFO  [17304] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-04-16 14:50:34.493 INFO  [17304] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-16 14:50:34.493 INFO  [17304] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-16 14:50:34.493 INFO  [17304] [CVCamStream::Get@827] CVCamStream::Get()
+2025-04-16 14:50:34.493 INFO  [17304] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-16 14:50:34.493 INFO  [17304] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-16 14:50:34.493 INFO  [17304] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-04-16 14:50:34.493 INFO  [17304] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-04-16 14:50:34.493 INFO  [17304] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-04-16 14:50:34.493 INFO  [17304] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-04-22 08:30:08.873 INFO  [11228] [InitLog@251] -------------------------------- create a new logger!
+2025-04-22 08:30:08.875 INFO  [11228] [InitLog@252] processName = msedge
+2025-04-22 08:30:08.875 INFO  [11228] [InitLog@269] -------------------------------- InitLog()
+2025-04-22 08:30:08.875 INFO  [11228] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-04-22 08:30:08.875 INFO  [11228] [QueryConfig@29] QueryConfig()
+2025-04-22 08:30:08.875 INFO  [11228] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-04-22 08:30:08.876 INFO  [11228] [QueryConfig@58] Width = 1920
+2025-04-22 08:30:08.876 INFO  [11228] [QueryConfig@59] Height = 1080
+2025-04-22 08:30:08.876 INFO  [11228] [QueryConfig@60] Fps = 30
+2025-04-22 08:30:08.876 INFO  [11228] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-04-22 08:30:08.876 INFO  [11228] [CVCam::CVCam@355] CVCam::CVCam()
+2025-04-22 08:30:08.876 INFO  [11228] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-04-22 08:30:08.876 INFO  [11228] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-04-22 08:30:08.876 INFO  [11228] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-22 08:30:08.876 INFO  [11228] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-22 08:30:08.876 INFO  [11228] [CVCamStream::Get@827] CVCamStream::Get()
+2025-04-22 08:30:08.876 INFO  [11228] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-22 08:30:08.876 INFO  [11228] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-22 08:30:08.876 INFO  [11228] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-04-22 08:30:08.876 INFO  [11228] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-04-22 08:30:08.876 INFO  [11228] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-04-22 08:30:08.876 INFO  [11228] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-04-26 22:20:35.369 INFO  [33556] [InitLog@251] -------------------------------- create a new logger!
+2025-04-26 22:20:35.371 INFO  [33556] [InitLog@252] processName = msedge
+2025-04-26 22:20:35.371 INFO  [33556] [InitLog@269] -------------------------------- InitLog()
+2025-04-26 22:20:35.371 INFO  [33556] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-04-26 22:20:35.371 INFO  [33556] [QueryConfig@29] QueryConfig()
+2025-04-26 22:20:35.371 INFO  [33556] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-04-26 22:20:35.371 INFO  [33556] [QueryConfig@58] Width = 1920
+2025-04-26 22:20:35.371 INFO  [33556] [QueryConfig@59] Height = 1080
+2025-04-26 22:20:35.371 INFO  [33556] [QueryConfig@60] Fps = 30
+2025-04-26 22:20:35.371 INFO  [33556] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-04-26 22:20:35.371 INFO  [33556] [CVCam::CVCam@355] CVCam::CVCam()
+2025-04-26 22:20:35.371 INFO  [33556] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-04-26 22:20:35.371 INFO  [33556] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-04-26 22:20:35.371 INFO  [33556] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-26 22:20:35.371 INFO  [33556] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-26 22:20:35.371 INFO  [33556] [CVCamStream::Get@827] CVCamStream::Get()
+2025-04-26 22:20:35.371 INFO  [33556] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-26 22:20:35.371 INFO  [33556] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-26 22:20:35.371 INFO  [33556] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-04-26 22:20:35.371 INFO  [33556] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-04-26 22:20:35.371 INFO  [33556] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-04-26 22:20:35.372 INFO  [33556] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-04-28 09:06:14.200 INFO  [15400] [InitLog@251] -------------------------------- create a new logger!
+2025-04-28 09:06:14.204 INFO  [15400] [InitLog@252] processName = msedge
+2025-04-28 09:06:14.204 INFO  [15400] [InitLog@269] -------------------------------- InitLog()
+2025-04-28 09:06:14.204 INFO  [15400] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-04-28 09:06:14.204 INFO  [15400] [QueryConfig@29] QueryConfig()
+2025-04-28 09:06:14.204 INFO  [15400] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-04-28 09:06:14.205 INFO  [15400] [QueryConfig@58] Width = 1920
+2025-04-28 09:06:14.205 INFO  [15400] [QueryConfig@59] Height = 1080
+2025-04-28 09:06:14.205 INFO  [15400] [QueryConfig@60] Fps = 30
+2025-04-28 09:06:14.205 INFO  [15400] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-04-28 09:06:14.205 INFO  [15400] [CVCam::CVCam@355] CVCam::CVCam()
+2025-04-28 09:06:14.205 INFO  [15400] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-04-28 09:06:14.205 INFO  [15400] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-04-28 09:06:14.206 INFO  [15400] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-28 09:06:14.206 INFO  [15400] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-28 09:06:14.206 INFO  [15400] [CVCamStream::Get@827] CVCamStream::Get()
+2025-04-28 09:06:14.206 INFO  [15400] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-28 09:06:14.206 INFO  [15400] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-28 09:06:14.206 INFO  [15400] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-04-28 09:06:14.206 INFO  [15400] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-04-28 09:06:14.206 INFO  [15400] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-04-28 09:06:14.206 INFO  [15400] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-04-30 10:41:50.711 INFO  [18592] [InitLog@251] -------------------------------- create a new logger!
+2025-04-30 10:41:50.715 INFO  [18592] [InitLog@252] processName = msedge
+2025-04-30 10:41:50.715 INFO  [18592] [InitLog@269] -------------------------------- InitLog()
+2025-04-30 10:41:50.715 INFO  [18592] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-04-30 10:41:50.715 INFO  [18592] [QueryConfig@29] QueryConfig()
+2025-04-30 10:41:50.715 INFO  [18592] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-04-30 10:41:50.715 INFO  [18592] [QueryConfig@58] Width = 1920
+2025-04-30 10:41:50.715 INFO  [18592] [QueryConfig@59] Height = 1080
+2025-04-30 10:41:50.715 INFO  [18592] [QueryConfig@60] Fps = 30
+2025-04-30 10:41:50.715 INFO  [18592] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-04-30 10:41:50.715 INFO  [18592] [CVCam::CVCam@355] CVCam::CVCam()
+2025-04-30 10:41:50.715 INFO  [18592] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-04-30 10:41:50.715 INFO  [18592] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-04-30 10:41:50.715 INFO  [18592] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-30 10:41:50.715 INFO  [18592] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-30 10:41:50.715 INFO  [18592] [CVCamStream::Get@827] CVCamStream::Get()
+2025-04-30 10:41:50.716 INFO  [18592] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-04-30 10:41:50.716 INFO  [18592] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-04-30 10:41:50.716 INFO  [18592] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-04-30 10:41:50.716 INFO  [18592] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-04-30 10:41:50.716 INFO  [18592] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-04-30 10:41:50.716 INFO  [18592] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-03 12:15:05.420 INFO  [3248] [InitLog@251] -------------------------------- create a new logger!
+2025-05-03 12:15:05.421 INFO  [3248] [InitLog@252] processName = msedge
+2025-05-03 12:15:05.421 INFO  [3248] [InitLog@269] -------------------------------- InitLog()
+2025-05-03 12:15:05.421 INFO  [3248] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-03 12:15:05.421 INFO  [3248] [QueryConfig@29] QueryConfig()
+2025-05-03 12:15:05.421 INFO  [3248] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-03 12:15:05.421 INFO  [3248] [QueryConfig@58] Width = 1920
+2025-05-03 12:15:05.421 INFO  [3248] [QueryConfig@59] Height = 1080
+2025-05-03 12:15:05.421 INFO  [3248] [QueryConfig@60] Fps = 30
+2025-05-03 12:15:05.421 INFO  [3248] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-03 12:15:05.421 INFO  [3248] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-03 12:15:05.421 INFO  [3248] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-03 12:15:05.421 INFO  [3248] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-03 12:15:05.422 INFO  [3248] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-03 12:15:05.422 INFO  [3248] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-03 12:15:05.422 INFO  [3248] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-03 12:15:05.422 INFO  [3248] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-03 12:15:05.422 INFO  [3248] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-03 12:15:05.422 INFO  [3248] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-03 12:15:05.422 INFO  [3248] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-03 12:15:05.422 INFO  [3248] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-03 12:15:05.422 INFO  [3248] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-04 13:57:54.494 INFO  [14084] [InitLog@251] -------------------------------- create a new logger!
+2025-05-04 13:57:54.495 INFO  [14084] [InitLog@252] processName = msedge
+2025-05-04 13:57:54.495 INFO  [14084] [InitLog@269] -------------------------------- InitLog()
+2025-05-04 13:57:54.495 INFO  [14084] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-04 13:57:54.495 INFO  [14084] [QueryConfig@29] QueryConfig()
+2025-05-04 13:57:54.495 INFO  [14084] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-04 13:57:54.495 INFO  [14084] [QueryConfig@58] Width = 1920
+2025-05-04 13:57:54.495 INFO  [14084] [QueryConfig@59] Height = 1080
+2025-05-04 13:57:54.495 INFO  [14084] [QueryConfig@60] Fps = 30
+2025-05-04 13:57:54.495 INFO  [14084] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-04 13:57:54.495 INFO  [14084] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-04 13:57:54.495 INFO  [14084] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-04 13:57:54.495 INFO  [14084] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-04 13:57:54.495 INFO  [14084] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-04 13:57:54.495 INFO  [14084] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-04 13:57:54.495 INFO  [14084] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-04 13:57:54.495 INFO  [14084] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-04 13:57:54.495 INFO  [14084] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-04 13:57:54.495 INFO  [14084] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-04 13:57:54.495 INFO  [14084] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-04 13:57:54.495 INFO  [14084] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-04 13:57:54.495 INFO  [14084] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-05 10:02:17.478 INFO  [12776] [InitLog@251] -------------------------------- create a new logger!
+2025-05-05 10:02:17.481 INFO  [12776] [InitLog@252] processName = msedge
+2025-05-05 10:02:17.481 INFO  [12776] [InitLog@269] -------------------------------- InitLog()
+2025-05-05 10:02:17.481 INFO  [12776] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-05 10:02:17.481 INFO  [12776] [QueryConfig@29] QueryConfig()
+2025-05-05 10:02:17.481 INFO  [12776] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-05 10:02:17.481 INFO  [12776] [QueryConfig@58] Width = 1920
+2025-05-05 10:02:17.481 INFO  [12776] [QueryConfig@59] Height = 1080
+2025-05-05 10:02:17.481 INFO  [12776] [QueryConfig@60] Fps = 30
+2025-05-05 10:02:17.481 INFO  [12776] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-05 10:02:17.481 INFO  [12776] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-05 10:02:17.481 INFO  [12776] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-05 10:02:17.481 INFO  [12776] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-05 10:02:17.482 INFO  [12776] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-05 10:02:17.482 INFO  [12776] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-05 10:02:17.482 INFO  [12776] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-05 10:02:17.482 INFO  [12776] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-05 10:02:17.482 INFO  [12776] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-05 10:02:17.482 INFO  [12776] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-05 10:02:17.482 INFO  [12776] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-05 10:02:17.482 INFO  [12776] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-05 10:02:17.482 INFO  [12776] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-06 11:35:43.055 INFO  [18244] [InitLog@251] -------------------------------- create a new logger!
+2025-05-06 11:35:43.056 INFO  [18244] [InitLog@252] processName = msedge
+2025-05-06 11:35:43.056 INFO  [18244] [InitLog@269] -------------------------------- InitLog()
+2025-05-06 11:35:43.056 INFO  [18244] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-06 11:35:43.056 INFO  [18244] [QueryConfig@29] QueryConfig()
+2025-05-06 11:35:43.056 INFO  [18244] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-06 11:35:43.056 INFO  [18244] [QueryConfig@58] Width = 1920
+2025-05-06 11:35:43.056 INFO  [18244] [QueryConfig@59] Height = 1080
+2025-05-06 11:35:43.056 INFO  [18244] [QueryConfig@60] Fps = 30
+2025-05-06 11:35:43.056 INFO  [18244] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-06 11:35:43.056 INFO  [18244] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-06 11:35:43.056 INFO  [18244] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-06 11:35:43.057 INFO  [18244] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-06 11:35:43.057 INFO  [18244] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-06 11:35:43.057 INFO  [18244] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-06 11:35:43.057 INFO  [18244] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-06 11:35:43.057 INFO  [18244] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-06 11:35:43.057 INFO  [18244] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-06 11:35:43.057 INFO  [18244] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-06 11:35:43.057 INFO  [18244] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-06 11:35:43.057 INFO  [18244] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-06 11:35:43.057 INFO  [18244] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-07 17:07:49.337 INFO  [22956] [InitLog@251] -------------------------------- create a new logger!
+2025-05-07 17:07:49.338 INFO  [22956] [InitLog@252] processName = msedge
+2025-05-07 17:07:49.338 INFO  [22956] [InitLog@269] -------------------------------- InitLog()
+2025-05-07 17:07:49.338 INFO  [22956] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-07 17:07:49.338 INFO  [22956] [QueryConfig@29] QueryConfig()
+2025-05-07 17:07:49.338 INFO  [22956] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-07 17:07:49.338 INFO  [22956] [QueryConfig@58] Width = 1920
+2025-05-07 17:07:49.338 INFO  [22956] [QueryConfig@59] Height = 1080
+2025-05-07 17:07:49.338 INFO  [22956] [QueryConfig@60] Fps = 30
+2025-05-07 17:07:49.338 INFO  [22956] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-07 17:07:49.338 INFO  [22956] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-07 17:07:49.338 INFO  [22956] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-07 17:07:49.338 INFO  [22956] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-07 17:07:49.338 INFO  [22956] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-07 17:07:49.338 INFO  [22956] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-07 17:07:49.338 INFO  [22956] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-07 17:07:49.338 INFO  [22956] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-07 17:07:49.339 INFO  [22956] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-07 17:07:49.339 INFO  [22956] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-07 17:07:49.339 INFO  [22956] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-07 17:07:49.339 INFO  [22956] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-07 17:07:49.339 INFO  [22956] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-10 10:39:07.596 INFO  [7248] [InitLog@251] -------------------------------- create a new logger!
+2025-05-10 10:39:07.598 INFO  [7248] [InitLog@252] processName = msedge
+2025-05-10 10:39:07.598 INFO  [7248] [InitLog@269] -------------------------------- InitLog()
+2025-05-10 10:39:07.598 INFO  [7248] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-10 10:39:07.598 INFO  [7248] [QueryConfig@29] QueryConfig()
+2025-05-10 10:39:07.598 INFO  [7248] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-10 10:39:07.599 INFO  [7248] [QueryConfig@58] Width = 1920
+2025-05-10 10:39:07.599 INFO  [7248] [QueryConfig@59] Height = 1080
+2025-05-10 10:39:07.599 INFO  [7248] [QueryConfig@60] Fps = 30
+2025-05-10 10:39:07.599 INFO  [7248] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-10 10:39:07.599 INFO  [7248] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-10 10:39:07.599 INFO  [7248] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-10 10:39:07.599 INFO  [7248] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-10 10:39:07.599 INFO  [7248] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-10 10:39:07.599 INFO  [7248] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-10 10:39:07.599 INFO  [7248] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-10 10:39:07.599 INFO  [7248] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-10 10:39:07.599 INFO  [7248] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-10 10:39:07.599 INFO  [7248] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-10 10:39:07.599 INFO  [7248] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-10 10:39:07.599 INFO  [7248] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-10 10:39:07.599 INFO  [7248] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-11 12:22:16.723 INFO  [13516] [InitLog@251] -------------------------------- create a new logger!
+2025-05-11 12:22:16.724 INFO  [13516] [InitLog@252] processName = msedge
+2025-05-11 12:22:16.724 INFO  [13516] [InitLog@269] -------------------------------- InitLog()
+2025-05-11 12:22:16.724 INFO  [13516] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-11 12:22:16.724 INFO  [13516] [QueryConfig@29] QueryConfig()
+2025-05-11 12:22:16.724 INFO  [13516] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-11 12:22:16.724 INFO  [13516] [QueryConfig@58] Width = 1920
+2025-05-11 12:22:16.724 INFO  [13516] [QueryConfig@59] Height = 1080
+2025-05-11 12:22:16.724 INFO  [13516] [QueryConfig@60] Fps = 30
+2025-05-11 12:22:16.724 INFO  [13516] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-11 12:22:16.724 INFO  [13516] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-11 12:22:16.724 INFO  [13516] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-11 12:22:16.725 INFO  [13516] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-11 12:22:16.725 INFO  [13516] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-11 12:22:16.725 INFO  [13516] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-11 12:22:16.725 INFO  [13516] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-11 12:22:16.725 INFO  [13516] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-11 12:22:16.725 INFO  [13516] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-11 12:22:16.725 INFO  [13516] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-11 12:22:16.725 INFO  [13516] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-11 12:22:16.725 INFO  [13516] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-11 12:22:16.725 INFO  [13516] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-11 14:57:16.534 INFO  [16224] [InitLog@251] -------------------------------- create a new logger!
+2025-05-11 14:57:16.534 INFO  [16224] [InitLog@252] processName = msedge
+2025-05-11 14:57:16.534 INFO  [16224] [InitLog@269] -------------------------------- InitLog()
+2025-05-11 14:57:16.534 INFO  [16224] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-11 14:57:16.534 INFO  [16224] [QueryConfig@29] QueryConfig()
+2025-05-11 14:57:16.535 INFO  [16224] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-11 14:57:16.535 INFO  [16224] [QueryConfig@58] Width = 1920
+2025-05-11 14:57:16.535 INFO  [16224] [QueryConfig@59] Height = 1080
+2025-05-11 14:57:16.535 INFO  [16224] [QueryConfig@60] Fps = 30
+2025-05-11 14:57:16.535 INFO  [16224] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-11 14:57:16.535 INFO  [16224] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-11 14:57:16.535 INFO  [16224] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-11 14:57:16.535 INFO  [16224] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-11 14:57:16.536 INFO  [16224] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-11 14:57:16.536 INFO  [16224] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-11 14:57:16.536 INFO  [16224] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-11 14:57:16.536 INFO  [16224] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-11 14:57:16.536 INFO  [16224] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-11 14:57:16.536 INFO  [16224] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-11 14:57:16.536 INFO  [16224] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-11 14:57:16.536 INFO  [16224] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-11 14:57:16.536 INFO  [16224] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-11 17:04:53.485 INFO  [16224] [InitLog@228] -------------------------------- using existing logger!
+2025-05-11 17:04:53.485 INFO  [16224] [InitLog@269] -------------------------------- InitLog()
+2025-05-11 17:04:53.485 INFO  [16224] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-11 17:04:53.485 INFO  [16224] [QueryConfig@29] QueryConfig()
+2025-05-11 17:04:53.485 INFO  [16224] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-11 17:04:53.485 INFO  [16224] [QueryConfig@58] Width = 1920
+2025-05-11 17:04:53.485 INFO  [16224] [QueryConfig@59] Height = 1080
+2025-05-11 17:04:53.485 INFO  [16224] [QueryConfig@60] Fps = 30
+2025-05-11 17:04:53.485 INFO  [16224] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-11 17:04:53.485 INFO  [16224] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-11 17:04:53.486 INFO  [16224] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-11 17:04:53.486 INFO  [16224] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-11 17:04:53.486 INFO  [16224] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-11 17:04:53.486 INFO  [16224] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-11 17:04:53.486 INFO  [16224] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-11 17:04:53.486 INFO  [16224] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-11 17:04:53.486 INFO  [16224] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-11 17:04:53.486 INFO  [16224] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-11 17:04:53.486 INFO  [16224] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-11 17:04:53.486 INFO  [16224] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-11 17:04:53.486 INFO  [16224] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-11 17:04:53.728 INFO  [16224] [InitLog@228] -------------------------------- using existing logger!
+2025-05-11 17:04:53.728 INFO  [16224] [InitLog@269] -------------------------------- InitLog()
+2025-05-11 17:04:53.729 INFO  [16224] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-11 17:04:53.729 INFO  [16224] [QueryConfig@29] QueryConfig()
+2025-05-11 17:04:53.729 INFO  [16224] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-11 17:04:53.729 INFO  [16224] [QueryConfig@58] Width = 1920
+2025-05-11 17:04:53.729 INFO  [16224] [QueryConfig@59] Height = 1080
+2025-05-11 17:04:53.729 INFO  [16224] [QueryConfig@60] Fps = 30
+2025-05-11 17:04:53.729 INFO  [16224] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-11 17:04:53.729 INFO  [16224] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-11 17:04:53.729 INFO  [16224] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-11 17:04:53.729 INFO  [16224] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-11 17:04:53.729 INFO  [16224] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-11 17:04:53.729 INFO  [16224] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-11 17:04:53.729 INFO  [16224] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-11 17:04:53.729 INFO  [16224] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-11 17:04:53.729 INFO  [16224] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-11 17:04:53.729 INFO  [16224] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-11 17:04:53.729 INFO  [16224] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-11 17:04:53.729 INFO  [16224] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-11 17:04:53.729 INFO  [16224] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-12 09:23:33.937 INFO  [4704] [InitLog@251] -------------------------------- create a new logger!
+2025-05-12 09:23:33.938 INFO  [4704] [InitLog@252] processName = msedge
+2025-05-12 09:23:33.938 INFO  [4704] [InitLog@269] -------------------------------- InitLog()
+2025-05-12 09:23:33.938 INFO  [4704] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-12 09:23:33.938 INFO  [4704] [QueryConfig@29] QueryConfig()
+2025-05-12 09:23:33.938 INFO  [4704] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-12 09:23:33.938 INFO  [4704] [QueryConfig@58] Width = 1920
+2025-05-12 09:23:33.938 INFO  [4704] [QueryConfig@59] Height = 1080
+2025-05-12 09:23:33.938 INFO  [4704] [QueryConfig@60] Fps = 30
+2025-05-12 09:23:33.938 INFO  [4704] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-12 09:23:33.938 INFO  [4704] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-12 09:23:33.938 INFO  [4704] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-12 09:23:33.938 INFO  [4704] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-12 09:23:33.938 INFO  [4704] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-12 09:23:33.938 INFO  [4704] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-12 09:23:33.938 INFO  [4704] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-12 09:23:33.938 INFO  [4704] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-12 09:23:33.938 INFO  [4704] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-12 09:23:33.938 INFO  [4704] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-12 09:23:33.938 INFO  [4704] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-12 09:23:33.938 INFO  [4704] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-12 09:23:33.938 INFO  [4704] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-12 10:47:09.933 INFO  [4704] [InitLog@228] -------------------------------- using existing logger!
+2025-05-12 10:47:09.933 INFO  [4704] [InitLog@269] -------------------------------- InitLog()
+2025-05-12 10:47:09.933 INFO  [4704] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-12 10:47:09.933 INFO  [4704] [QueryConfig@29] QueryConfig()
+2025-05-12 10:47:09.933 INFO  [4704] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-12 10:47:09.933 INFO  [4704] [QueryConfig@58] Width = 1920
+2025-05-12 10:47:09.933 INFO  [4704] [QueryConfig@59] Height = 1080
+2025-05-12 10:47:09.933 INFO  [4704] [QueryConfig@60] Fps = 30
+2025-05-12 10:47:09.933 INFO  [4704] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-12 10:47:09.933 INFO  [4704] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-12 10:47:09.933 INFO  [4704] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-12 10:47:09.933 INFO  [4704] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-12 10:47:09.933 INFO  [4704] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-12 10:47:09.933 INFO  [4704] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-12 10:47:09.933 INFO  [4704] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-12 10:47:09.933 INFO  [4704] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-12 10:47:09.933 INFO  [4704] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-12 10:47:09.933 INFO  [4704] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-12 10:47:09.933 INFO  [4704] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-12 10:47:09.933 INFO  [4704] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-12 10:47:09.933 INFO  [4704] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-16 15:53:37.071 INFO  [21668] [InitLog@251] -------------------------------- create a new logger!
+2025-05-16 15:53:37.074 INFO  [21668] [InitLog@252] processName = msedge
+2025-05-16 15:53:37.074 INFO  [21668] [InitLog@269] -------------------------------- InitLog()
+2025-05-16 15:53:37.074 INFO  [21668] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-16 15:53:37.074 INFO  [21668] [QueryConfig@29] QueryConfig()
+2025-05-16 15:53:37.074 INFO  [21668] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-16 15:53:37.074 INFO  [21668] [QueryConfig@58] Width = 1920
+2025-05-16 15:53:37.074 INFO  [21668] [QueryConfig@59] Height = 1080
+2025-05-16 15:53:37.074 INFO  [21668] [QueryConfig@60] Fps = 30
+2025-05-16 15:53:37.074 INFO  [21668] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-16 15:53:37.074 INFO  [21668] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-16 15:53:37.074 INFO  [21668] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-16 15:53:37.074 INFO  [21668] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-16 15:53:37.074 INFO  [21668] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-16 15:53:37.074 INFO  [21668] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-16 15:53:37.074 INFO  [21668] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-16 15:53:37.075 INFO  [21668] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-16 15:53:37.075 INFO  [21668] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-16 15:53:37.075 INFO  [21668] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-16 15:53:37.075 INFO  [21668] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-16 15:53:37.075 INFO  [21668] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-16 15:53:37.075 INFO  [21668] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-20 17:35:01.994 INFO  [5084] [InitLog@251] -------------------------------- create a new logger!
+2025-05-20 17:35:01.995 INFO  [5084] [InitLog@252] processName = msedge
+2025-05-20 17:35:01.995 INFO  [5084] [InitLog@269] -------------------------------- InitLog()
+2025-05-20 17:35:01.995 INFO  [5084] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-20 17:35:01.995 INFO  [5084] [QueryConfig@29] QueryConfig()
+2025-05-20 17:35:01.995 INFO  [5084] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-20 17:35:01.996 INFO  [5084] [QueryConfig@58] Width = 1920
+2025-05-20 17:35:01.996 INFO  [5084] [QueryConfig@59] Height = 1080
+2025-05-20 17:35:01.996 INFO  [5084] [QueryConfig@60] Fps = 30
+2025-05-20 17:35:01.996 INFO  [5084] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-20 17:35:01.996 INFO  [5084] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-20 17:35:01.996 INFO  [5084] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-20 17:35:01.996 INFO  [5084] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-20 17:35:01.996 INFO  [5084] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-20 17:35:01.996 INFO  [5084] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-20 17:35:01.996 INFO  [5084] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-20 17:35:01.996 INFO  [5084] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-20 17:35:01.996 INFO  [5084] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-20 17:35:01.996 INFO  [5084] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-20 17:35:01.996 INFO  [5084] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-20 17:35:01.996 INFO  [5084] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-20 17:35:01.996 INFO  [5084] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-23 13:00:56.879 INFO  [14744] [InitLog@251] -------------------------------- create a new logger!
+2025-05-23 13:00:56.880 INFO  [14744] [InitLog@252] processName = msedge
+2025-05-23 13:00:56.880 INFO  [14744] [InitLog@269] -------------------------------- InitLog()
+2025-05-23 13:00:56.880 INFO  [14744] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-23 13:00:56.880 INFO  [14744] [QueryConfig@29] QueryConfig()
+2025-05-23 13:00:56.880 INFO  [14744] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-23 13:00:56.881 INFO  [14744] [QueryConfig@58] Width = 1920
+2025-05-23 13:00:56.881 INFO  [14744] [QueryConfig@59] Height = 1080
+2025-05-23 13:00:56.881 INFO  [14744] [QueryConfig@60] Fps = 30
+2025-05-23 13:00:56.881 INFO  [14744] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-23 13:00:56.881 INFO  [14744] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-23 13:00:56.881 INFO  [14744] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-23 13:00:56.881 INFO  [14744] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-23 13:00:56.881 INFO  [14744] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-23 13:00:56.881 INFO  [14744] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-23 13:00:56.881 INFO  [14744] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-23 13:00:56.881 INFO  [14744] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-23 13:00:56.881 INFO  [14744] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-23 13:00:56.881 INFO  [14744] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-23 13:00:56.881 INFO  [14744] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-23 13:00:56.881 INFO  [14744] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-23 13:00:56.881 INFO  [14744] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-23 14:16:04.451 INFO  [13456] [InitLog@251] -------------------------------- create a new logger!
+2025-05-23 14:16:04.451 INFO  [13456] [InitLog@252] processName = msedge
+2025-05-23 14:16:04.451 INFO  [13456] [InitLog@269] -------------------------------- InitLog()
+2025-05-23 14:16:04.451 INFO  [13456] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-23 14:16:04.451 INFO  [13456] [QueryConfig@29] QueryConfig()
+2025-05-23 14:16:04.451 INFO  [13456] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-23 14:16:04.451 INFO  [13456] [QueryConfig@58] Width = 1920
+2025-05-23 14:16:04.451 INFO  [13456] [QueryConfig@59] Height = 1080
+2025-05-23 14:16:04.451 INFO  [13456] [QueryConfig@60] Fps = 30
+2025-05-23 14:16:04.451 INFO  [13456] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-23 14:16:04.451 INFO  [13456] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-23 14:16:04.451 INFO  [13456] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-23 14:16:04.452 INFO  [13456] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-23 14:16:04.452 INFO  [13456] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-23 14:16:04.452 INFO  [13456] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-23 14:16:04.452 INFO  [13456] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-23 14:16:04.452 INFO  [13456] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-23 14:16:04.452 INFO  [13456] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-23 14:16:04.452 INFO  [13456] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-23 14:16:04.452 INFO  [13456] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-23 14:16:04.452 INFO  [13456] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-23 14:16:04.452 INFO  [13456] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-24 13:10:25.835 INFO  [7668] [InitLog@251] -------------------------------- create a new logger!
+2025-05-24 13:10:25.836 INFO  [7668] [InitLog@252] processName = msedge
+2025-05-24 13:10:25.836 INFO  [7668] [InitLog@269] -------------------------------- InitLog()
+2025-05-24 13:10:25.836 INFO  [7668] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-24 13:10:25.836 INFO  [7668] [QueryConfig@29] QueryConfig()
+2025-05-24 13:10:25.836 INFO  [7668] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-24 13:10:25.836 INFO  [7668] [QueryConfig@58] Width = 1920
+2025-05-24 13:10:25.836 INFO  [7668] [QueryConfig@59] Height = 1080
+2025-05-24 13:10:25.836 INFO  [7668] [QueryConfig@60] Fps = 30
+2025-05-24 13:10:25.836 INFO  [7668] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-24 13:10:25.836 INFO  [7668] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-24 13:10:25.836 INFO  [7668] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-24 13:10:25.836 INFO  [7668] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-24 13:10:25.836 INFO  [7668] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-24 13:10:25.836 INFO  [7668] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-24 13:10:25.836 INFO  [7668] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-24 13:10:25.837 INFO  [7668] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-24 13:10:25.837 INFO  [7668] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-24 13:10:25.837 INFO  [7668] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-24 13:10:25.837 INFO  [7668] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-24 13:10:25.837 INFO  [7668] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-24 13:10:25.837 INFO  [7668] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-24 13:27:45.042 INFO  [7552] [InitLog@251] -------------------------------- create a new logger!
+2025-05-24 13:27:45.043 INFO  [7552] [InitLog@252] processName = msedge
+2025-05-24 13:27:45.043 INFO  [7552] [InitLog@269] -------------------------------- InitLog()
+2025-05-24 13:27:45.043 INFO  [7552] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-24 13:27:45.043 INFO  [7552] [QueryConfig@29] QueryConfig()
+2025-05-24 13:27:45.043 INFO  [7552] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-24 13:27:45.043 INFO  [7552] [QueryConfig@58] Width = 1920
+2025-05-24 13:27:45.043 INFO  [7552] [QueryConfig@59] Height = 1080
+2025-05-24 13:27:45.043 INFO  [7552] [QueryConfig@60] Fps = 30
+2025-05-24 13:27:45.043 INFO  [7552] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-24 13:27:45.043 INFO  [7552] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-24 13:27:45.043 INFO  [7552] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-24 13:27:45.043 INFO  [7552] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-24 13:27:45.043 INFO  [7552] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-24 13:27:45.043 INFO  [7552] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-24 13:27:45.043 INFO  [7552] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-24 13:27:45.043 INFO  [7552] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-24 13:27:45.043 INFO  [7552] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-24 13:27:45.043 INFO  [7552] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-24 13:27:45.043 INFO  [7552] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-24 13:27:45.043 INFO  [7552] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-24 13:27:45.043 INFO  [7552] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-24 13:55:38.176 INFO  [2908] [InitLog@251] -------------------------------- create a new logger!
+2025-05-24 13:55:38.176 INFO  [2908] [InitLog@252] processName = msedge
+2025-05-24 13:55:38.176 INFO  [2908] [InitLog@269] -------------------------------- InitLog()
+2025-05-24 13:55:38.176 INFO  [2908] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-24 13:55:38.176 INFO  [2908] [QueryConfig@29] QueryConfig()
+2025-05-24 13:55:38.176 INFO  [2908] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-24 13:55:38.176 INFO  [2908] [QueryConfig@58] Width = 1920
+2025-05-24 13:55:38.176 INFO  [2908] [QueryConfig@59] Height = 1080
+2025-05-24 13:55:38.176 INFO  [2908] [QueryConfig@60] Fps = 30
+2025-05-24 13:55:38.176 INFO  [2908] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-24 13:55:38.176 INFO  [2908] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-24 13:55:38.176 INFO  [2908] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-24 13:55:38.177 INFO  [2908] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-24 13:55:38.177 INFO  [2908] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-24 13:55:38.177 INFO  [2908] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-24 13:55:38.177 INFO  [2908] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-24 13:55:38.177 INFO  [2908] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-24 13:55:38.177 INFO  [2908] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-24 13:55:38.177 INFO  [2908] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-24 13:55:38.177 INFO  [2908] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-24 13:55:38.177 INFO  [2908] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-24 13:55:38.177 INFO  [2908] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-25 12:10:05.294 INFO  [9860] [InitLog@251] -------------------------------- create a new logger!
+2025-05-25 12:10:05.297 INFO  [9860] [InitLog@252] processName = msedge
+2025-05-25 12:10:05.297 INFO  [9860] [InitLog@269] -------------------------------- InitLog()
+2025-05-25 12:10:05.297 INFO  [9860] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-25 12:10:05.297 INFO  [9860] [QueryConfig@29] QueryConfig()
+2025-05-25 12:10:05.297 INFO  [9860] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-25 12:10:05.298 INFO  [9860] [QueryConfig@58] Width = 1920
+2025-05-25 12:10:05.298 INFO  [9860] [QueryConfig@59] Height = 1080
+2025-05-25 12:10:05.298 INFO  [9860] [QueryConfig@60] Fps = 30
+2025-05-25 12:10:05.298 INFO  [9860] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-25 12:10:05.298 INFO  [9860] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-25 12:10:05.298 INFO  [9860] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-25 12:10:05.298 INFO  [9860] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-25 12:10:05.298 INFO  [9860] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-25 12:10:05.298 INFO  [9860] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-25 12:10:05.298 INFO  [9860] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-25 12:10:05.298 INFO  [9860] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-25 12:10:05.298 INFO  [9860] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-25 12:10:05.298 INFO  [9860] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-25 12:10:05.298 INFO  [9860] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-25 12:10:05.298 INFO  [9860] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-25 12:10:05.298 INFO  [9860] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-25 12:26:02.582 INFO  [19412] [InitLog@251] -------------------------------- create a new logger!
+2025-05-25 12:26:02.583 INFO  [19412] [InitLog@252] processName = msedge
+2025-05-25 12:26:02.583 INFO  [19412] [InitLog@269] -------------------------------- InitLog()
+2025-05-25 12:26:02.583 INFO  [19412] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-25 12:26:02.583 INFO  [19412] [QueryConfig@29] QueryConfig()
+2025-05-25 12:26:02.583 INFO  [19412] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-25 12:26:02.583 INFO  [19412] [QueryConfig@58] Width = 1920
+2025-05-25 12:26:02.583 INFO  [19412] [QueryConfig@59] Height = 1080
+2025-05-25 12:26:02.583 INFO  [19412] [QueryConfig@60] Fps = 30
+2025-05-25 12:26:02.583 INFO  [19412] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-25 12:26:02.584 INFO  [19412] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-25 12:26:02.584 INFO  [19412] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-25 12:26:02.584 INFO  [19412] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-25 12:26:02.584 INFO  [19412] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-25 12:26:02.584 INFO  [19412] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-25 12:26:02.584 INFO  [19412] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-25 12:26:02.584 INFO  [19412] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-25 12:26:02.584 INFO  [19412] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-25 12:26:02.584 INFO  [19412] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-25 12:26:02.584 INFO  [19412] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-25 12:26:02.584 INFO  [19412] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-25 12:26:02.584 INFO  [19412] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-25 14:08:21.752 INFO  [12276] [InitLog@251] -------------------------------- create a new logger!
+2025-05-25 14:08:21.753 INFO  [12276] [InitLog@252] processName = msedge
+2025-05-25 14:08:21.753 INFO  [12276] [InitLog@269] -------------------------------- InitLog()
+2025-05-25 14:08:21.753 INFO  [12276] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-25 14:08:21.753 INFO  [12276] [QueryConfig@29] QueryConfig()
+2025-05-25 14:08:21.753 INFO  [12276] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-25 14:08:21.753 INFO  [12276] [QueryConfig@58] Width = 1920
+2025-05-25 14:08:21.753 INFO  [12276] [QueryConfig@59] Height = 1080
+2025-05-25 14:08:21.753 INFO  [12276] [QueryConfig@60] Fps = 30
+2025-05-25 14:08:21.753 INFO  [12276] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-25 14:08:21.753 INFO  [12276] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-25 14:08:21.753 INFO  [12276] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-25 14:08:21.753 INFO  [12276] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-25 14:08:21.753 INFO  [12276] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-25 14:08:21.753 INFO  [12276] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-25 14:08:21.753 INFO  [12276] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-25 14:08:21.753 INFO  [12276] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-25 14:08:21.754 INFO  [12276] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-25 14:08:21.754 INFO  [12276] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-25 14:08:21.754 INFO  [12276] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-25 14:08:21.754 INFO  [12276] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-25 14:08:21.754 INFO  [12276] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-05-26 12:59:36.108 INFO  [14232] [InitLog@251] -------------------------------- create a new logger!
+2025-05-26 12:59:36.109 INFO  [14232] [InitLog@252] processName = msedge
+2025-05-26 12:59:36.109 INFO  [14232] [InitLog@269] -------------------------------- InitLog()
+2025-05-26 12:59:36.109 INFO  [14232] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-05-26 12:59:36.109 INFO  [14232] [QueryConfig@29] QueryConfig()
+2025-05-26 12:59:36.109 INFO  [14232] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-05-26 12:59:36.110 INFO  [14232] [QueryConfig@58] Width = 1920
+2025-05-26 12:59:36.110 INFO  [14232] [QueryConfig@59] Height = 1080
+2025-05-26 12:59:36.110 INFO  [14232] [QueryConfig@60] Fps = 30
+2025-05-26 12:59:36.110 INFO  [14232] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-05-26 12:59:36.110 INFO  [14232] [CVCam::CVCam@355] CVCam::CVCam()
+2025-05-26 12:59:36.110 INFO  [14232] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-05-26 12:59:36.110 INFO  [14232] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-05-26 12:59:36.110 INFO  [14232] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-26 12:59:36.110 INFO  [14232] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-26 12:59:36.110 INFO  [14232] [CVCamStream::Get@827] CVCamStream::Get()
+2025-05-26 12:59:36.110 INFO  [14232] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-05-26 12:59:36.110 INFO  [14232] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-05-26 12:59:36.110 INFO  [14232] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-05-26 12:59:36.110 INFO  [14232] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-05-26 12:59:36.110 INFO  [14232] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-05-26 12:59:36.110 INFO  [14232] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-06-10 23:43:23.173 INFO  [20336] [InitLog@251] -------------------------------- create a new logger!
+2025-06-10 23:43:23.174 INFO  [20336] [InitLog@252] processName = msedge
+2025-06-10 23:43:23.174 INFO  [20336] [InitLog@269] -------------------------------- InitLog()
+2025-06-10 23:43:23.174 INFO  [20336] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-06-10 23:43:23.174 INFO  [20336] [QueryConfig@29] QueryConfig()
+2025-06-10 23:43:23.174 INFO  [20336] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-06-10 23:43:23.174 INFO  [20336] [QueryConfig@58] Width = 1920
+2025-06-10 23:43:23.174 INFO  [20336] [QueryConfig@59] Height = 1080
+2025-06-10 23:43:23.174 INFO  [20336] [QueryConfig@60] Fps = 30
+2025-06-10 23:43:23.174 INFO  [20336] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-06-10 23:43:23.174 INFO  [20336] [CVCam::CVCam@355] CVCam::CVCam()
+2025-06-10 23:43:23.174 INFO  [20336] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-06-10 23:43:23.174 INFO  [20336] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-06-10 23:43:23.174 INFO  [20336] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-06-10 23:43:23.174 INFO  [20336] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-06-10 23:43:23.174 INFO  [20336] [CVCamStream::Get@827] CVCamStream::Get()
+2025-06-10 23:43:23.174 INFO  [20336] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-06-10 23:43:23.174 INFO  [20336] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-06-10 23:43:23.174 INFO  [20336] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-06-10 23:43:23.174 INFO  [20336] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-06-10 23:43:23.174 INFO  [20336] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-06-10 23:43:23.174 INFO  [20336] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-06-11 09:44:47.348 INFO  [13804] [InitLog@251] -------------------------------- create a new logger!
+2025-06-11 09:44:47.349 INFO  [13804] [InitLog@252] processName = msedge
+2025-06-11 09:44:47.349 INFO  [13804] [InitLog@269] -------------------------------- InitLog()
+2025-06-11 09:44:47.349 INFO  [13804] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-06-11 09:44:47.349 INFO  [13804] [QueryConfig@29] QueryConfig()
+2025-06-11 09:44:47.349 INFO  [13804] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-06-11 09:44:47.349 INFO  [13804] [QueryConfig@58] Width = 1920
+2025-06-11 09:44:47.349 INFO  [13804] [QueryConfig@59] Height = 1080
+2025-06-11 09:44:47.349 INFO  [13804] [QueryConfig@60] Fps = 30
+2025-06-11 09:44:47.349 INFO  [13804] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-06-11 09:44:47.349 INFO  [13804] [CVCam::CVCam@355] CVCam::CVCam()
+2025-06-11 09:44:47.349 INFO  [13804] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-06-11 09:44:47.349 INFO  [13804] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-06-11 09:44:47.349 INFO  [13804] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-06-11 09:44:47.349 INFO  [13804] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-06-11 09:44:47.349 INFO  [13804] [CVCamStream::Get@827] CVCamStream::Get()
+2025-06-11 09:44:47.349 INFO  [13804] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-06-11 09:44:47.349 INFO  [13804] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-06-11 09:44:47.349 INFO  [13804] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-06-11 09:44:47.349 INFO  [13804] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-06-11 09:44:47.349 INFO  [13804] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-06-11 09:44:47.349 INFO  [13804] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-06-14 12:12:24.491 INFO  [9224] [InitLog@251] -------------------------------- create a new logger!
+2025-06-14 12:12:24.493 INFO  [9224] [InitLog@252] processName = msedge
+2025-06-14 12:12:24.493 INFO  [9224] [InitLog@269] -------------------------------- InitLog()
+2025-06-14 12:12:24.493 INFO  [9224] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-06-14 12:12:24.493 INFO  [9224] [QueryConfig@29] QueryConfig()
+2025-06-14 12:12:24.493 INFO  [9224] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-06-14 12:12:24.493 INFO  [9224] [QueryConfig@58] Width = 1920
+2025-06-14 12:12:24.493 INFO  [9224] [QueryConfig@59] Height = 1080
+2025-06-14 12:12:24.493 INFO  [9224] [QueryConfig@60] Fps = 30
+2025-06-14 12:12:24.493 INFO  [9224] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-06-14 12:12:24.493 INFO  [9224] [CVCam::CVCam@355] CVCam::CVCam()
+2025-06-14 12:12:24.493 INFO  [9224] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-06-14 12:12:24.493 INFO  [9224] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-06-14 12:12:24.493 INFO  [9224] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-06-14 12:12:24.493 INFO  [9224] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-06-14 12:12:24.493 INFO  [9224] [CVCamStream::Get@827] CVCamStream::Get()
+2025-06-14 12:12:24.493 INFO  [9224] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-06-14 12:12:24.493 INFO  [9224] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-06-14 12:12:24.493 INFO  [9224] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-06-14 12:12:24.493 INFO  [9224] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-06-14 12:12:24.493 INFO  [9224] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-06-14 12:12:24.493 INFO  [9224] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-06-16 15:45:54.798 INFO  [9632] [InitLog@251] -------------------------------- create a new logger!
+2025-06-16 15:45:54.799 INFO  [9632] [InitLog@252] processName = msedge
+2025-06-16 15:45:54.799 INFO  [9632] [InitLog@269] -------------------------------- InitLog()
+2025-06-16 15:45:54.799 INFO  [9632] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-06-16 15:45:54.799 INFO  [9632] [QueryConfig@29] QueryConfig()
+2025-06-16 15:45:54.799 INFO  [9632] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-06-16 15:45:54.799 INFO  [9632] [QueryConfig@58] Width = 1920
+2025-06-16 15:45:54.799 INFO  [9632] [QueryConfig@59] Height = 1080
+2025-06-16 15:45:54.799 INFO  [9632] [QueryConfig@60] Fps = 30
+2025-06-16 15:45:54.799 INFO  [9632] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-06-16 15:45:54.799 INFO  [9632] [CVCam::CVCam@355] CVCam::CVCam()
+2025-06-16 15:45:54.799 INFO  [9632] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-06-16 15:45:54.799 INFO  [9632] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-06-16 15:45:54.800 INFO  [9632] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-06-16 15:45:54.800 INFO  [9632] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-06-16 15:45:54.800 INFO  [9632] [CVCamStream::Get@827] CVCamStream::Get()
+2025-06-16 15:45:54.800 INFO  [9632] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-06-16 15:45:54.800 INFO  [9632] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-06-16 15:45:54.800 INFO  [9632] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-06-16 15:45:54.800 INFO  [9632] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-06-16 15:45:54.800 INFO  [9632] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-06-16 15:45:54.800 INFO  [9632] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-06-19 15:19:13.490 INFO  [20460] [InitLog@251] -------------------------------- create a new logger!
+2025-06-19 15:19:13.492 INFO  [20460] [InitLog@252] processName = msedge
+2025-06-19 15:19:13.492 INFO  [20460] [InitLog@269] -------------------------------- InitLog()
+2025-06-19 15:19:13.492 INFO  [20460] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-06-19 15:19:13.493 INFO  [20460] [QueryConfig@29] QueryConfig()
+2025-06-19 15:19:13.493 INFO  [20460] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-06-19 15:19:13.493 INFO  [20460] [QueryConfig@58] Width = 1920
+2025-06-19 15:19:13.493 INFO  [20460] [QueryConfig@59] Height = 1080
+2025-06-19 15:19:13.493 INFO  [20460] [QueryConfig@60] Fps = 30
+2025-06-19 15:19:13.493 INFO  [20460] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-06-19 15:19:13.493 INFO  [20460] [CVCam::CVCam@355] CVCam::CVCam()
+2025-06-19 15:19:13.493 INFO  [20460] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-06-19 15:19:13.493 INFO  [20460] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-06-19 15:19:13.493 INFO  [20460] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-06-19 15:19:13.493 INFO  [20460] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-06-19 15:19:13.493 INFO  [20460] [CVCamStream::Get@827] CVCamStream::Get()
+2025-06-19 15:19:13.493 INFO  [20460] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-06-19 15:19:13.493 INFO  [20460] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-06-19 15:19:13.493 INFO  [20460] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-06-19 15:19:13.493 INFO  [20460] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-06-19 15:19:13.493 INFO  [20460] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-06-19 15:19:13.493 INFO  [20460] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-07-12 14:45:28.555 INFO  [14472] [InitLog@251] -------------------------------- create a new logger!
+2025-07-12 14:45:28.556 INFO  [14472] [InitLog@252] processName = msedge
+2025-07-12 14:45:28.556 INFO  [14472] [InitLog@269] -------------------------------- InitLog()
+2025-07-12 14:45:28.556 INFO  [14472] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-07-12 14:45:28.556 INFO  [14472] [QueryConfig@29] QueryConfig()
+2025-07-12 14:45:28.556 INFO  [14472] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-07-12 14:45:28.557 INFO  [14472] [QueryConfig@58] Width = 1920
+2025-07-12 14:45:28.557 INFO  [14472] [QueryConfig@59] Height = 1080
+2025-07-12 14:45:28.557 INFO  [14472] [QueryConfig@60] Fps = 30
+2025-07-12 14:45:28.557 INFO  [14472] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-07-12 14:45:28.557 INFO  [14472] [CVCam::CVCam@355] CVCam::CVCam()
+2025-07-12 14:45:28.557 INFO  [14472] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-07-12 14:45:28.557 INFO  [14472] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-07-12 14:45:28.557 INFO  [14472] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-12 14:45:28.557 INFO  [14472] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-12 14:45:28.557 INFO  [14472] [CVCamStream::Get@827] CVCamStream::Get()
+2025-07-12 14:45:28.557 INFO  [14472] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-12 14:45:28.557 INFO  [14472] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-12 14:45:28.557 INFO  [14472] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-07-12 14:45:28.557 INFO  [14472] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-07-12 14:45:28.557 INFO  [14472] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-07-12 14:45:28.557 INFO  [14472] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-07-12 15:08:06.205 INFO  [14472] [InitLog@228] -------------------------------- using existing logger!
+2025-07-12 15:08:06.205 INFO  [14472] [InitLog@269] -------------------------------- InitLog()
+2025-07-12 15:08:06.205 INFO  [14472] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-07-12 15:08:06.205 INFO  [14472] [QueryConfig@29] QueryConfig()
+2025-07-12 15:08:06.205 INFO  [14472] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-07-12 15:08:06.205 INFO  [14472] [QueryConfig@58] Width = 1920
+2025-07-12 15:08:06.205 INFO  [14472] [QueryConfig@59] Height = 1080
+2025-07-12 15:08:06.205 INFO  [14472] [QueryConfig@60] Fps = 30
+2025-07-12 15:08:06.205 INFO  [14472] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-07-12 15:08:06.205 INFO  [14472] [CVCam::CVCam@355] CVCam::CVCam()
+2025-07-12 15:08:06.205 INFO  [14472] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-07-12 15:08:06.205 INFO  [14472] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-07-12 15:08:06.205 INFO  [14472] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-12 15:08:06.205 INFO  [14472] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-12 15:08:06.205 INFO  [14472] [CVCamStream::Get@827] CVCamStream::Get()
+2025-07-12 15:08:06.205 INFO  [14472] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-12 15:08:06.205 INFO  [14472] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-12 15:08:06.205 INFO  [14472] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-07-12 15:08:06.205 INFO  [14472] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-07-12 15:08:06.205 INFO  [14472] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-07-12 15:08:06.205 INFO  [14472] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-07-12 15:53:33.187 INFO  [11768] [InitLog@251] -------------------------------- create a new logger!
+2025-07-12 15:53:33.187 INFO  [11768] [InitLog@252] processName = msedge
+2025-07-12 15:53:33.187 INFO  [11768] [InitLog@269] -------------------------------- InitLog()
+2025-07-12 15:53:33.187 INFO  [11768] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-07-12 15:53:33.187 INFO  [11768] [QueryConfig@29] QueryConfig()
+2025-07-12 15:53:33.187 INFO  [11768] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-07-12 15:53:33.187 INFO  [11768] [QueryConfig@58] Width = 1920
+2025-07-12 15:53:33.187 INFO  [11768] [QueryConfig@59] Height = 1080
+2025-07-12 15:53:33.187 INFO  [11768] [QueryConfig@60] Fps = 30
+2025-07-12 15:53:33.187 INFO  [11768] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-07-12 15:53:33.187 INFO  [11768] [CVCam::CVCam@355] CVCam::CVCam()
+2025-07-12 15:53:33.187 INFO  [11768] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-07-12 15:53:33.187 INFO  [11768] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-07-12 15:53:33.187 INFO  [11768] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-12 15:53:33.187 INFO  [11768] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-12 15:53:33.187 INFO  [11768] [CVCamStream::Get@827] CVCamStream::Get()
+2025-07-12 15:53:33.187 INFO  [11768] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-12 15:53:33.187 INFO  [11768] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-12 15:53:33.187 INFO  [11768] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-07-12 15:53:33.187 INFO  [11768] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-07-12 15:53:33.187 INFO  [11768] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-07-12 15:53:33.187 INFO  [11768] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-07-16 14:39:30.922 INFO  [17012] [InitLog@251] -------------------------------- create a new logger!
+2025-07-16 14:39:30.923 INFO  [17012] [InitLog@252] processName = msedge
+2025-07-16 14:39:30.923 INFO  [17012] [InitLog@269] -------------------------------- InitLog()
+2025-07-16 14:39:30.923 INFO  [17012] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-07-16 14:39:30.923 INFO  [17012] [QueryConfig@29] QueryConfig()
+2025-07-16 14:39:30.923 INFO  [17012] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-07-16 14:39:30.923 INFO  [17012] [QueryConfig@58] Width = 1920
+2025-07-16 14:39:30.923 INFO  [17012] [QueryConfig@59] Height = 1080
+2025-07-16 14:39:30.923 INFO  [17012] [QueryConfig@60] Fps = 30
+2025-07-16 14:39:30.923 INFO  [17012] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-07-16 14:39:30.923 INFO  [17012] [CVCam::CVCam@355] CVCam::CVCam()
+2025-07-16 14:39:30.924 INFO  [17012] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-07-16 14:39:30.924 INFO  [17012] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-07-16 14:39:30.924 INFO  [17012] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-16 14:39:30.924 INFO  [17012] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-16 14:39:30.924 INFO  [17012] [CVCamStream::Get@827] CVCamStream::Get()
+2025-07-16 14:39:30.924 INFO  [17012] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-16 14:39:30.924 INFO  [17012] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-16 14:39:30.924 INFO  [17012] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-07-16 14:39:30.924 INFO  [17012] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-07-16 14:39:30.924 INFO  [17012] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-07-16 14:39:30.924 INFO  [17012] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-07-16 15:35:47.350 INFO  [21220] [InitLog@251] -------------------------------- create a new logger!
+2025-07-16 15:35:47.350 INFO  [21220] [InitLog@252] processName = msedge
+2025-07-16 15:35:47.350 INFO  [21220] [InitLog@269] -------------------------------- InitLog()
+2025-07-16 15:35:47.350 INFO  [21220] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-07-16 15:35:47.350 INFO  [21220] [QueryConfig@29] QueryConfig()
+2025-07-16 15:35:47.350 INFO  [21220] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-07-16 15:35:47.351 INFO  [21220] [QueryConfig@58] Width = 1920
+2025-07-16 15:35:47.351 INFO  [21220] [QueryConfig@59] Height = 1080
+2025-07-16 15:35:47.351 INFO  [21220] [QueryConfig@60] Fps = 30
+2025-07-16 15:35:47.351 INFO  [21220] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-07-16 15:35:47.351 INFO  [21220] [CVCam::CVCam@355] CVCam::CVCam()
+2025-07-16 15:35:47.351 INFO  [21220] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-07-16 15:35:47.351 INFO  [21220] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-07-16 15:35:47.351 INFO  [21220] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-16 15:35:47.351 INFO  [21220] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-16 15:35:47.351 INFO  [21220] [CVCamStream::Get@827] CVCamStream::Get()
+2025-07-16 15:35:47.351 INFO  [21220] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-16 15:35:47.351 INFO  [21220] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-16 15:35:47.351 INFO  [21220] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-07-16 15:35:47.351 INFO  [21220] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-07-16 15:35:47.351 INFO  [21220] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-07-16 15:35:47.351 INFO  [21220] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-07-19 13:39:20.159 INFO  [17684] [InitLog@251] -------------------------------- create a new logger!
+2025-07-19 13:39:20.160 INFO  [17684] [InitLog@252] processName = msedge
+2025-07-19 13:39:20.160 INFO  [17684] [InitLog@269] -------------------------------- InitLog()
+2025-07-19 13:39:20.160 INFO  [17684] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-07-19 13:39:20.160 INFO  [17684] [QueryConfig@29] QueryConfig()
+2025-07-19 13:39:20.160 INFO  [17684] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-07-19 13:39:20.160 INFO  [17684] [QueryConfig@58] Width = 1920
+2025-07-19 13:39:20.160 INFO  [17684] [QueryConfig@59] Height = 1080
+2025-07-19 13:39:20.160 INFO  [17684] [QueryConfig@60] Fps = 30
+2025-07-19 13:39:20.160 INFO  [17684] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-07-19 13:39:20.160 INFO  [17684] [CVCam::CVCam@355] CVCam::CVCam()
+2025-07-19 13:39:20.160 INFO  [17684] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-07-19 13:39:20.160 INFO  [17684] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-07-19 13:39:20.160 INFO  [17684] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-19 13:39:20.160 INFO  [17684] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-19 13:39:20.160 INFO  [17684] [CVCamStream::Get@827] CVCamStream::Get()
+2025-07-19 13:39:20.161 INFO  [17684] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-19 13:39:20.161 INFO  [17684] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-19 13:39:20.161 INFO  [17684] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-07-19 13:39:20.161 INFO  [17684] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-07-19 13:39:20.161 INFO  [17684] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-07-19 13:39:20.161 INFO  [17684] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-07-19 14:06:57.052 INFO  [17824] [InitLog@251] -------------------------------- create a new logger!
+2025-07-19 14:06:57.053 INFO  [17824] [InitLog@252] processName = msedge
+2025-07-19 14:06:57.053 INFO  [17824] [InitLog@269] -------------------------------- InitLog()
+2025-07-19 14:06:57.053 INFO  [17824] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-07-19 14:06:57.053 INFO  [17824] [QueryConfig@29] QueryConfig()
+2025-07-19 14:06:57.053 INFO  [17824] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-07-19 14:06:57.053 INFO  [17824] [QueryConfig@58] Width = 1920
+2025-07-19 14:06:57.053 INFO  [17824] [QueryConfig@59] Height = 1080
+2025-07-19 14:06:57.053 INFO  [17824] [QueryConfig@60] Fps = 30
+2025-07-19 14:06:57.053 INFO  [17824] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-07-19 14:06:57.053 INFO  [17824] [CVCam::CVCam@355] CVCam::CVCam()
+2025-07-19 14:06:57.053 INFO  [17824] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-07-19 14:06:57.053 INFO  [17824] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-07-19 14:06:57.053 INFO  [17824] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-19 14:06:57.053 INFO  [17824] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-19 14:06:57.053 INFO  [17824] [CVCamStream::Get@827] CVCamStream::Get()
+2025-07-19 14:06:57.053 INFO  [17824] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-19 14:06:57.053 INFO  [17824] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-19 14:06:57.053 INFO  [17824] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-07-19 14:06:57.053 INFO  [17824] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-07-19 14:06:57.053 INFO  [17824] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-07-19 14:06:57.053 INFO  [17824] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-07-19 14:36:05.351 INFO  [18496] [InitLog@251] -------------------------------- create a new logger!
+2025-07-19 14:36:05.351 INFO  [18496] [InitLog@252] processName = msedge
+2025-07-19 14:36:05.351 INFO  [18496] [InitLog@269] -------------------------------- InitLog()
+2025-07-19 14:36:05.351 INFO  [18496] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-07-19 14:36:05.351 INFO  [18496] [QueryConfig@29] QueryConfig()
+2025-07-19 14:36:05.351 INFO  [18496] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-07-19 14:36:05.351 INFO  [18496] [QueryConfig@58] Width = 1920
+2025-07-19 14:36:05.351 INFO  [18496] [QueryConfig@59] Height = 1080
+2025-07-19 14:36:05.351 INFO  [18496] [QueryConfig@60] Fps = 30
+2025-07-19 14:36:05.351 INFO  [18496] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-07-19 14:36:05.351 INFO  [18496] [CVCam::CVCam@355] CVCam::CVCam()
+2025-07-19 14:36:05.351 INFO  [18496] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-07-19 14:36:05.351 INFO  [18496] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-07-19 14:36:05.351 INFO  [18496] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-19 14:36:05.351 INFO  [18496] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-19 14:36:05.351 INFO  [18496] [CVCamStream::Get@827] CVCamStream::Get()
+2025-07-19 14:36:05.351 INFO  [18496] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-19 14:36:05.351 INFO  [18496] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-19 14:36:05.351 INFO  [18496] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-07-19 14:36:05.351 INFO  [18496] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-07-19 14:36:05.351 INFO  [18496] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-07-19 14:36:05.351 INFO  [18496] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-07-19 15:07:05.733 INFO  [17552] [InitLog@251] -------------------------------- create a new logger!
+2025-07-19 15:07:05.734 INFO  [17552] [InitLog@252] processName = msedge
+2025-07-19 15:07:05.734 INFO  [17552] [InitLog@269] -------------------------------- InitLog()
+2025-07-19 15:07:05.734 INFO  [17552] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-07-19 15:07:05.734 INFO  [17552] [QueryConfig@29] QueryConfig()
+2025-07-19 15:07:05.734 INFO  [17552] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-07-19 15:07:05.734 INFO  [17552] [QueryConfig@58] Width = 1920
+2025-07-19 15:07:05.734 INFO  [17552] [QueryConfig@59] Height = 1080
+2025-07-19 15:07:05.734 INFO  [17552] [QueryConfig@60] Fps = 30
+2025-07-19 15:07:05.734 INFO  [17552] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-07-19 15:07:05.734 INFO  [17552] [CVCam::CVCam@355] CVCam::CVCam()
+2025-07-19 15:07:05.734 INFO  [17552] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-07-19 15:07:05.734 INFO  [17552] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-07-19 15:07:05.734 INFO  [17552] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-19 15:07:05.734 INFO  [17552] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-19 15:07:05.734 INFO  [17552] [CVCamStream::Get@827] CVCamStream::Get()
+2025-07-19 15:07:05.734 INFO  [17552] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-19 15:07:05.735 INFO  [17552] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-19 15:07:05.735 INFO  [17552] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-07-19 15:07:05.735 INFO  [17552] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-07-19 15:07:05.735 INFO  [17552] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-07-19 15:07:05.735 INFO  [17552] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-07-19 15:58:51.417 INFO  [14224] [InitLog@251] -------------------------------- create a new logger!
+2025-07-19 15:58:51.418 INFO  [14224] [InitLog@252] processName = msedge
+2025-07-19 15:58:51.418 INFO  [14224] [InitLog@269] -------------------------------- InitLog()
+2025-07-19 15:58:51.418 INFO  [14224] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-07-19 15:58:51.418 INFO  [14224] [QueryConfig@29] QueryConfig()
+2025-07-19 15:58:51.418 INFO  [14224] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-07-19 15:58:51.418 INFO  [14224] [QueryConfig@58] Width = 1920
+2025-07-19 15:58:51.418 INFO  [14224] [QueryConfig@59] Height = 1080
+2025-07-19 15:58:51.418 INFO  [14224] [QueryConfig@60] Fps = 30
+2025-07-19 15:58:51.418 INFO  [14224] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-07-19 15:58:51.418 INFO  [14224] [CVCam::CVCam@355] CVCam::CVCam()
+2025-07-19 15:58:51.418 INFO  [14224] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-07-19 15:58:51.418 INFO  [14224] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-07-19 15:58:51.418 INFO  [14224] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-19 15:58:51.418 INFO  [14224] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-19 15:58:51.418 INFO  [14224] [CVCamStream::Get@827] CVCamStream::Get()
+2025-07-19 15:58:51.418 INFO  [14224] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-19 15:58:51.418 INFO  [14224] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-19 15:58:51.418 INFO  [14224] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-07-19 15:58:51.418 INFO  [14224] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-07-19 15:58:51.418 INFO  [14224] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-07-19 15:58:51.418 INFO  [14224] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-07-19 16:04:38.448 INFO  [18768] [InitLog@251] -------------------------------- create a new logger!
+2025-07-19 16:04:38.450 INFO  [18768] [InitLog@252] processName = msedge
+2025-07-19 16:04:38.450 INFO  [18768] [InitLog@269] -------------------------------- InitLog()
+2025-07-19 16:04:38.450 INFO  [18768] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-07-19 16:04:38.450 INFO  [18768] [QueryConfig@29] QueryConfig()
+2025-07-19 16:04:38.450 INFO  [18768] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-07-19 16:04:38.450 INFO  [18768] [QueryConfig@58] Width = 1920
+2025-07-19 16:04:38.450 INFO  [18768] [QueryConfig@59] Height = 1080
+2025-07-19 16:04:38.450 INFO  [18768] [QueryConfig@60] Fps = 30
+2025-07-19 16:04:38.450 INFO  [18768] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-07-19 16:04:38.450 INFO  [18768] [CVCam::CVCam@355] CVCam::CVCam()
+2025-07-19 16:04:38.450 INFO  [18768] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-07-19 16:04:38.450 INFO  [18768] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-07-19 16:04:38.450 INFO  [18768] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-19 16:04:38.450 INFO  [18768] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-19 16:04:38.450 INFO  [18768] [CVCamStream::Get@827] CVCamStream::Get()
+2025-07-19 16:04:38.450 INFO  [18768] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-19 16:04:38.450 INFO  [18768] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-19 16:04:38.450 INFO  [18768] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-07-19 16:04:38.450 INFO  [18768] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-07-19 16:04:38.450 INFO  [18768] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-07-19 16:04:38.450 INFO  [18768] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-07-28 08:33:32.571 INFO  [19608] [InitLog@251] -------------------------------- create a new logger!
+2025-07-28 08:33:32.574 INFO  [19608] [InitLog@252] processName = msedge
+2025-07-28 08:33:32.574 INFO  [19608] [InitLog@269] -------------------------------- InitLog()
+2025-07-28 08:33:32.574 INFO  [19608] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-07-28 08:33:32.574 INFO  [19608] [QueryConfig@29] QueryConfig()
+2025-07-28 08:33:32.574 INFO  [19608] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-07-28 08:33:32.574 INFO  [19608] [QueryConfig@58] Width = 1920
+2025-07-28 08:33:32.574 INFO  [19608] [QueryConfig@59] Height = 1080
+2025-07-28 08:33:32.574 INFO  [19608] [QueryConfig@60] Fps = 30
+2025-07-28 08:33:32.574 INFO  [19608] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-07-28 08:33:32.574 INFO  [19608] [CVCam::CVCam@355] CVCam::CVCam()
+2025-07-28 08:33:32.574 INFO  [19608] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-07-28 08:33:32.574 INFO  [19608] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-07-28 08:33:32.574 INFO  [19608] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-28 08:33:32.574 INFO  [19608] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-28 08:33:32.574 INFO  [19608] [CVCamStream::Get@827] CVCamStream::Get()
+2025-07-28 08:33:32.575 INFO  [19608] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-28 08:33:32.575 INFO  [19608] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-28 08:33:32.575 INFO  [19608] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-07-28 08:33:32.575 INFO  [19608] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-07-28 08:33:32.575 INFO  [19608] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-07-28 08:33:32.575 INFO  [19608] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-07-29 10:24:26.972 INFO  [16312] [InitLog@251] -------------------------------- create a new logger!
+2025-07-29 10:24:26.973 INFO  [16312] [InitLog@252] processName = msedge
+2025-07-29 10:24:26.973 INFO  [16312] [InitLog@269] -------------------------------- InitLog()
+2025-07-29 10:24:26.973 INFO  [16312] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-07-29 10:24:26.973 INFO  [16312] [QueryConfig@29] QueryConfig()
+2025-07-29 10:24:26.973 INFO  [16312] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-07-29 10:24:26.973 INFO  [16312] [QueryConfig@58] Width = 1920
+2025-07-29 10:24:26.973 INFO  [16312] [QueryConfig@59] Height = 1080
+2025-07-29 10:24:26.973 INFO  [16312] [QueryConfig@60] Fps = 30
+2025-07-29 10:24:26.973 INFO  [16312] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-07-29 10:24:26.973 INFO  [16312] [CVCam::CVCam@355] CVCam::CVCam()
+2025-07-29 10:24:26.973 INFO  [16312] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-07-29 10:24:26.973 INFO  [16312] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-07-29 10:24:26.973 INFO  [16312] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-29 10:24:26.973 INFO  [16312] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-29 10:24:26.973 INFO  [16312] [CVCamStream::Get@827] CVCamStream::Get()
+2025-07-29 10:24:26.974 INFO  [16312] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-29 10:24:26.974 INFO  [16312] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-29 10:24:26.974 INFO  [16312] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-07-29 10:24:26.974 INFO  [16312] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-07-29 10:24:26.974 INFO  [16312] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-07-29 10:24:26.974 INFO  [16312] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-07-29 10:53:48.399 INFO  [10400] [InitLog@251] -------------------------------- create a new logger!
+2025-07-29 10:53:48.400 INFO  [10400] [InitLog@252] processName = msedge
+2025-07-29 10:53:48.400 INFO  [10400] [InitLog@269] -------------------------------- InitLog()
+2025-07-29 10:53:48.400 INFO  [10400] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-07-29 10:53:48.400 INFO  [10400] [QueryConfig@29] QueryConfig()
+2025-07-29 10:53:48.400 INFO  [10400] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-07-29 10:53:48.400 INFO  [10400] [QueryConfig@58] Width = 1920
+2025-07-29 10:53:48.400 INFO  [10400] [QueryConfig@59] Height = 1080
+2025-07-29 10:53:48.400 INFO  [10400] [QueryConfig@60] Fps = 30
+2025-07-29 10:53:48.400 INFO  [10400] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-07-29 10:53:48.400 INFO  [10400] [CVCam::CVCam@355] CVCam::CVCam()
+2025-07-29 10:53:48.400 INFO  [10400] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-07-29 10:53:48.400 INFO  [10400] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-07-29 10:53:48.400 INFO  [10400] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-29 10:53:48.400 INFO  [10400] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-29 10:53:48.400 INFO  [10400] [CVCamStream::Get@827] CVCamStream::Get()
+2025-07-29 10:53:48.400 INFO  [10400] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-29 10:53:48.400 INFO  [10400] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-29 10:53:48.400 INFO  [10400] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-07-29 10:53:48.400 INFO  [10400] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-07-29 10:53:48.400 INFO  [10400] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-07-29 10:53:48.400 INFO  [10400] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-08-07 10:42:56.327 INFO  [9688] [InitLog@251] -------------------------------- create a new logger!
+2025-08-07 10:42:56.332 INFO  [9688] [InitLog@252] processName = msedge
+2025-08-07 10:42:56.332 INFO  [9688] [InitLog@269] -------------------------------- InitLog()
+2025-08-07 10:42:56.332 INFO  [9688] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-08-07 10:42:56.332 INFO  [9688] [QueryConfig@29] QueryConfig()
+2025-08-07 10:42:56.332 INFO  [9688] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-08-07 10:42:56.333 INFO  [9688] [QueryConfig@58] Width = 1920
+2025-08-07 10:42:56.333 INFO  [9688] [QueryConfig@59] Height = 1080
+2025-08-07 10:42:56.333 INFO  [9688] [QueryConfig@60] Fps = 30
+2025-08-07 10:42:56.333 INFO  [9688] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-08-07 10:42:56.333 INFO  [9688] [CVCam::CVCam@355] CVCam::CVCam()
+2025-08-07 10:42:56.333 INFO  [9688] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-08-07 10:42:56.333 INFO  [9688] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-08-07 10:42:56.333 INFO  [9688] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-08-07 10:42:56.333 INFO  [9688] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-08-07 10:42:56.333 INFO  [9688] [CVCamStream::Get@827] CVCamStream::Get()
+2025-08-07 10:42:56.334 INFO  [9688] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-08-07 10:42:56.334 INFO  [9688] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-08-07 10:42:56.334 INFO  [9688] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-08-07 10:42:56.334 INFO  [9688] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-08-07 10:42:56.334 INFO  [9688] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-08-07 10:42:56.334 INFO  [9688] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-09-28 21:22:06.732 INFO  [22252] [InitLog@251] -------------------------------- create a new logger!
+2025-09-28 21:22:06.733 INFO  [22252] [InitLog@252] processName = msedge
+2025-09-28 21:22:06.733 INFO  [22252] [InitLog@269] -------------------------------- InitLog()
+2025-09-28 21:22:06.733 INFO  [22252] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-09-28 21:22:06.733 INFO  [22252] [QueryConfig@29] QueryConfig()
+2025-09-28 21:22:06.733 INFO  [22252] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-09-28 21:22:06.733 INFO  [22252] [QueryConfig@58] Width = 1920
+2025-09-28 21:22:06.733 INFO  [22252] [QueryConfig@59] Height = 1080
+2025-09-28 21:22:06.733 INFO  [22252] [QueryConfig@60] Fps = 30
+2025-09-28 21:22:06.733 INFO  [22252] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-09-28 21:22:06.733 INFO  [22252] [CVCam::CVCam@355] CVCam::CVCam()
+2025-09-28 21:22:06.733 INFO  [22252] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-09-28 21:22:06.733 INFO  [22252] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-09-28 21:22:06.733 INFO  [22252] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-09-28 21:22:06.733 INFO  [22252] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-09-28 21:22:06.733 INFO  [22252] [CVCamStream::Get@827] CVCamStream::Get()
+2025-09-28 21:22:06.733 INFO  [22252] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-09-28 21:22:06.733 INFO  [22252] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-09-28 21:22:06.733 INFO  [22252] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-09-28 21:22:06.733 INFO  [22252] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-09-28 21:22:06.733 INFO  [22252] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-09-28 21:22:06.733 INFO  [22252] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-09-30 01:29:08.586 INFO  [20144] [InitLog@251] -------------------------------- create a new logger!
+2025-09-30 01:29:08.587 INFO  [20144] [InitLog@252] processName = msedge
+2025-09-30 01:29:08.587 INFO  [20144] [InitLog@269] -------------------------------- InitLog()
+2025-09-30 01:29:08.587 INFO  [20144] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-09-30 01:29:08.587 INFO  [20144] [QueryConfig@29] QueryConfig()
+2025-09-30 01:29:08.587 INFO  [20144] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-09-30 01:29:08.588 INFO  [20144] [QueryConfig@58] Width = 1920
+2025-09-30 01:29:08.588 INFO  [20144] [QueryConfig@59] Height = 1080
+2025-09-30 01:29:08.588 INFO  [20144] [QueryConfig@60] Fps = 30
+2025-09-30 01:29:08.588 INFO  [20144] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-09-30 01:29:08.588 INFO  [20144] [CVCam::CVCam@355] CVCam::CVCam()
+2025-09-30 01:29:08.588 INFO  [20144] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-09-30 01:29:08.588 INFO  [20144] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-09-30 01:29:08.588 INFO  [20144] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-09-30 01:29:08.588 INFO  [20144] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-09-30 01:29:08.588 INFO  [20144] [CVCamStream::Get@827] CVCamStream::Get()
+2025-09-30 01:29:08.588 INFO  [20144] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-09-30 01:29:08.588 INFO  [20144] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-09-30 01:29:08.588 INFO  [20144] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-09-30 01:29:08.588 INFO  [20144] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-09-30 01:29:08.588 INFO  [20144] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-09-30 01:29:08.588 INFO  [20144] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-10-11 18:56:15.161 INFO  [15772] [InitLog@251] -------------------------------- create a new logger!
+2025-10-11 18:56:15.162 INFO  [15772] [InitLog@252] processName = msedge
+2025-10-11 18:56:15.162 INFO  [15772] [InitLog@269] -------------------------------- InitLog()
+2025-10-11 18:56:15.162 INFO  [15772] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-10-11 18:56:15.162 INFO  [15772] [QueryConfig@29] QueryConfig()
+2025-10-11 18:56:15.162 INFO  [15772] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-10-11 18:56:15.163 INFO  [15772] [QueryConfig@58] Width = 1920
+2025-10-11 18:56:15.163 INFO  [15772] [QueryConfig@59] Height = 1080
+2025-10-11 18:56:15.163 INFO  [15772] [QueryConfig@60] Fps = 30
+2025-10-11 18:56:15.163 INFO  [15772] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-10-11 18:56:15.163 INFO  [15772] [CVCam::CVCam@355] CVCam::CVCam()
+2025-10-11 18:56:15.163 INFO  [15772] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-10-11 18:56:15.163 INFO  [15772] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-10-11 18:56:15.163 INFO  [15772] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-10-11 18:56:15.163 INFO  [15772] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-10-11 18:56:15.163 INFO  [15772] [CVCamStream::Get@827] CVCamStream::Get()
+2025-10-11 18:56:15.163 INFO  [15772] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-10-11 18:56:15.163 INFO  [15772] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-10-11 18:56:15.163 INFO  [15772] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-10-11 18:56:15.163 INFO  [15772] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-10-11 18:56:15.163 INFO  [15772] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-10-11 18:56:15.163 INFO  [15772] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-10-17 14:14:56.378 INFO  [13940] [InitLog@251] -------------------------------- create a new logger!
+2025-10-17 14:14:56.382 INFO  [13940] [InitLog@252] processName = msedge
+2025-10-17 14:14:56.382 INFO  [13940] [InitLog@269] -------------------------------- InitLog()
+2025-10-17 14:14:56.382 INFO  [13940] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-10-17 14:14:56.382 INFO  [13940] [QueryConfig@29] QueryConfig()
+2025-10-17 14:14:56.382 INFO  [13940] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-10-17 14:14:56.383 INFO  [13940] [QueryConfig@58] Width = 1920
+2025-10-17 14:14:56.383 INFO  [13940] [QueryConfig@59] Height = 1080
+2025-10-17 14:14:56.383 INFO  [13940] [QueryConfig@60] Fps = 30
+2025-10-17 14:14:56.383 INFO  [13940] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-10-17 14:14:56.383 INFO  [13940] [CVCam::CVCam@355] CVCam::CVCam()
+2025-10-17 14:14:56.383 INFO  [13940] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-10-17 14:14:56.383 INFO  [13940] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-10-17 14:14:56.383 INFO  [13940] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-10-17 14:14:56.383 INFO  [13940] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-10-17 14:14:56.383 INFO  [13940] [CVCamStream::Get@827] CVCamStream::Get()
+2025-10-17 14:14:56.384 INFO  [13940] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-10-17 14:14:56.384 INFO  [13940] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-10-17 14:14:56.384 INFO  [13940] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-10-17 14:14:56.384 INFO  [13940] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-10-17 14:14:56.384 INFO  [13940] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-10-17 14:14:56.384 INFO  [13940] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2026-01-14 17:52:20.664 INFO  [188856] [InitLog@251] -------------------------------- create a new logger!
+2026-01-14 17:52:20.666 INFO  [188856] [InitLog@252] processName = msedge
+2026-01-14 17:52:20.666 INFO  [188856] [InitLog@269] -------------------------------- InitLog()
+2026-01-14 17:52:20.666 INFO  [188856] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2026-01-14 17:52:20.666 INFO  [188856] [QueryConfig@29] QueryConfig()
+2026-01-14 17:52:20.666 INFO  [188856] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2026-01-14 17:52:20.667 INFO  [188856] [QueryConfig@58] Width = 1920
+2026-01-14 17:52:20.667 INFO  [188856] [QueryConfig@59] Height = 1080
+2026-01-14 17:52:20.667 INFO  [188856] [QueryConfig@60] Fps = 30
+2026-01-14 17:52:20.667 INFO  [188856] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2026-01-14 17:52:20.667 INFO  [188856] [CVCam::CVCam@355] CVCam::CVCam()
+2026-01-14 17:52:20.667 INFO  [188856] [CVCamStream::CVCamStream@394] CVCamStream()
+2026-01-14 17:52:20.667 INFO  [188856] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2026-01-14 17:52:20.667 INFO  [188856] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2026-01-14 17:52:20.667 INFO  [188856] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2026-01-14 17:52:20.667 INFO  [188856] [CVCamStream::Get@827] CVCamStream::Get()
+2026-01-14 17:52:20.667 INFO  [188856] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2026-01-14 17:52:20.667 INFO  [188856] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2026-01-14 17:52:20.667 INFO  [188856] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2026-01-14 17:52:20.667 INFO  [188856] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2026-01-14 17:52:20.667 INFO  [188856] [CVCam::~CVCam@366] CVCam::~CVCam()
+2026-01-14 17:52:20.667 INFO  [188856] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2026-01-28 13:46:45.001 INFO  [8812] [InitLog@251] -------------------------------- create a new logger!
+2026-01-28 13:46:45.002 INFO  [8812] [InitLog@252] processName = msedge
+2026-01-28 13:46:45.002 INFO  [8812] [InitLog@269] -------------------------------- InitLog()
+2026-01-28 13:46:45.002 INFO  [8812] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2026-01-28 13:46:45.002 INFO  [8812] [QueryConfig@29] QueryConfig()
+2026-01-28 13:46:45.002 INFO  [8812] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2026-01-28 13:46:45.003 INFO  [8812] [QueryConfig@58] Width = 1920
+2026-01-28 13:46:45.003 INFO  [8812] [QueryConfig@59] Height = 1080
+2026-01-28 13:46:45.003 INFO  [8812] [QueryConfig@60] Fps = 30
+2026-01-28 13:46:45.003 INFO  [8812] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2026-01-28 13:46:45.003 INFO  [8812] [CVCam::CVCam@355] CVCam::CVCam()
+2026-01-28 13:46:45.003 INFO  [8812] [CVCamStream::CVCamStream@394] CVCamStream()
+2026-01-28 13:46:45.003 INFO  [8812] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2026-01-28 13:46:45.003 INFO  [8812] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2026-01-28 13:46:45.003 INFO  [8812] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2026-01-28 13:46:45.003 INFO  [8812] [CVCamStream::Get@827] CVCamStream::Get()
+2026-01-28 13:46:45.003 INFO  [8812] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2026-01-28 13:46:45.003 INFO  [8812] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2026-01-28 13:46:45.003 INFO  [8812] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2026-01-28 13:46:45.003 INFO  [8812] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2026-01-28 13:46:45.003 INFO  [8812] [CVCam::~CVCam@366] CVCam::~CVCam()
+2026-01-28 13:46:45.003 INFO  [8812] [CVCamStream::~CVCamStream@406] ~CVCamStream()

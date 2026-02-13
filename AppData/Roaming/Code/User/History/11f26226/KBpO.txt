@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Exercice 3</title>
+        <meta charset="utf-8"/>
+        </head>
+        <body>
+            <p> il y a des <mark>balises</mark> de type <em>bloc</em> et d'autres de type <strong>inline</strong> <br/> la balise &it; p &gt; est de type <ins>bloc</ins>
+            </p>
+        </body>
+        </html>

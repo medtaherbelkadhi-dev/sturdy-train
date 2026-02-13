@@ -1,0 +1,223 @@
+2025-10-06 14:38:14.5055 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:14.5636 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:14.5724 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.2368 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.2881 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.2881 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.3022 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.3022 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.3022 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code:DD_ESC_GET_SET_GAMMA:14 Error Code: Unsuccessful:0xC0000001 
+2025-10-06 14:38:16.3022 ERROR 	EscapeCallYangra. GetDriverGamma. Driver Escape Failed. 
+2025-10-06 14:38:16.3541 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:16.3541 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.3541 ERROR 	DataAccessService. DisplayDataRetrievalAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:16.3541 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:16.3541 ERROR 	DataAccessService. DisplayDataRetrievalAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:16.3541 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:16.3541 ERROR 	DataAccessService. DisplayDataRetrievalAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:16.3541 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.3541 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.3541 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.3664 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.3664 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.4178 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.4306 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.4522 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.4522 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.5028 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.5605 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.6042 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.6190 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.6190 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.6537 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.6930 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:16.7364 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:17.2712 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:17.2712 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:17.2712 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:17.2858 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code:DD_ESC_GET_SET_GAMMA:14 Error Code: Unsuccessful:0xC0000001 
+2025-10-06 14:38:17.2858 ERROR 	EscapeCallYangra. GetDriverGamma. Driver Escape Failed. 
+2025-10-06 14:38:17.3758 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:17.3758 ERROR 	DataAccessService. DisplayDataRetrievalAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:17.3758 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:17.3758 ERROR 	DataAccessService. DisplayDataRetrievalAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:17.3758 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:17.3758 ERROR 	DataAccessService. DisplayDataRetrievalAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:17.3758 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:17.3799 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:17.3799 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:17.3799 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:17.3799 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:18.0047 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:18.0303 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:18.0303 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:18.0303 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:18.0303 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:18.0303 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:18.0368 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:18.0368 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:18.1390 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:18.1390 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:18.1390 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:18.2180 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:18.2180 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:18.2180 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:18.2180 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:18.2180 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:18.2180 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:18.2180 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:18.2180 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:18.2180 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:18.2180 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:18.2180 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:18.2180 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:18.2244 DEBUG 	DisplaySvcInterface. GetDisplayColorData. No record found for displayId 8388688 
+2025-10-06 14:38:18.3247 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:18.9480 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:18.9480 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:19.0364 INFO 	EscapeCallYangra. GetDPSParams 1 
+2025-10-06 14:38:19.0662 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:19.0943 INFO 	EscapeCallYangra. GetDPSParams 1 
+2025-10-06 14:38:19.1252 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:19.1836 INFO 	EscapeCallYangra. GetDPSParams 1 
+2025-10-06 14:38:19.2765 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:19.3002 INFO 	EscapeCallYangra. GetDPSParams 1 
+2025-10-06 14:38:19.3672 INFO 	CorePowerManager. GetAllInitializationFeatures. Queried properties for all adapters. Properties list: {"PowerFeatureSettings":[{"enabledDCFeatures":{"(DC, Balanced)":{"Reserved":false,"DPST":true,"LACE":true,"CXSR":false,"FBC":false,"GSV":true,"DPS":true,"RS":true,"PSR":true,"IPS":false,"SS":false,"DFPS":false,"ADT":false,"PVQC":false,"DCC":true,"SLPM":true,"DPSTLevel":6,"EPSM":true,"MinDpstLevel":1,"MaxDpstLevel":6,"DPSPARAMS":{"IsMFD":0,"IsSupportForStaticDRRS":0,"NumOfRefreshRates":1,"DpsRefreshRate0":0,"DpsRefreshRate1":0,"DpsRefreshRate2":0,"DpsRefreshRate3":0,"DpsRefreshRate4":0,"DpsRefreshRate5":0,"DpsRefreshRate6":0,"DpsRefreshRate7":0,"DpsRefreshRate8":0,"DpsRefreshRate9":0,"LastUserSelectedModeSetRR":144,"BaseLowRefreshRate":60,"DpsParamsReturnCode":0,"DpsRefreshRates":[60,0,0,0,0,0,2,0,0,0]},"AdaptiveBrightness":false}},"supportedDCFeatures":{"(DC, Balanced)":{"Reserved":false,"DPST":true,"LACE":true,"CXSR":false,"FBC":false,"GSV":true,"DPS":false,"RS":true,"PSR":true,"IPS":false,"SS":false,"DFPS":false,"ADT":false,"PVQC":false,"DCC":true,"SLPM":true,"DPSTLevel":6,"EPSM":true,"MinDpstLevel":1,"MaxDpstLevel":6,"DPSPARAMS":{"IsMFD":0,"IsSupportForStaticDRRS":0,"NumOfRefreshRates":1,"DpsRefreshRate0":0,"DpsRefreshRate1":0,"DpsRefreshRate2":0,"DpsRefreshRate3":0,"DpsRefreshRate4":0,"DpsRefreshRate5":0,"DpsRefreshRate6":0,"DpsRefreshRate7":0,"DpsRefreshRate8":0,"DpsRefreshRate9":0,"LastUserSelectedModeSetRR":144,"BaseLowRefreshRate":60,"DpsParamsReturnCode":0,"DpsRefreshRates":[60,0,0,0,0,0,2,0,0,0]},"AdaptiveBrightness":false}},"enabledACFeatures":{"(AC, Balanced)":{"Reserved":false,"DPST":true,"LACE":true,"CXSR":false,"FBC":false,"GSV":true,"DPS":true,"RS":true,"PSR":true,"IPS":false,"SS":false,"DFPS":false,"ADT":false,"PVQC":false,"DCC":true,"SLPM":true,"DPSTLevel":6,"EPSM":false,"MinDpstLevel":1,"MaxDpstLevel":6,"DPSPARAMS":{"IsMFD":0,"IsSupportForStaticDRRS":0,"NumOfRefreshRates":1,"DpsRefreshRate0":0,"DpsRefreshRate1":0,"DpsRefreshRate2":0,"DpsRefreshRate3":0,"DpsRefreshRate4":0,"DpsRefreshRate5":0,"DpsRefreshRate6":0,"DpsRefreshRate7":0,"DpsRefreshRate8":0,"DpsRefreshRate9":0,"LastUserSelectedModeSetRR":144,"BaseLowRefreshRate":60,"DpsParamsReturnCode":0,"DpsRefreshRates":[60,0,0,0,0,0,2,0,0,0]},"AdaptiveBrightness":false}},"supportedACFeatures":{"(AC, Balanced)":{"Reserved":false,"DPST":true,"LACE":true,"CXSR":false,"FBC":false,"GSV":true,"DPS":false,"RS":true,"PSR":true,"IPS":false,"SS":false,"DFPS":false,"ADT":false,"PVQC":false,"DCC":true,"SLPM":true,"DPSTLevel":6,"EPSM":false,"MinDpstLevel":1,"MaxDpstLevel":6,"DPSPARAMS":{"IsMFD":0,"IsSupportForStaticDRRS":0,"NumOfRefreshRates":1,"DpsRefreshRate0":0,"DpsRefreshRate1":0,"DpsRefreshRate2":0,"DpsRefreshRate3":0,"DpsRefreshRate4":0,"DpsRefreshRate5":0,"DpsRefreshRate6":0,"DpsRefreshRate7":0,"DpsRefreshRate8":0,"DpsRefreshRate9":0,"LastUserSelectedModeSetRR":144,"BaseLowRefreshRate":60,"DpsParamsReturnCode":0,"DpsRefreshRates":[60,0,0,0,0,0,2,0,0,0]},"AdaptiveBrightness":false}},"dcActivePlan":1,"acActivePlan":1,"_isConnectedStandby":true,"_platformType":3,"_adapterID":{"LowPart":74121,"HighPart":0}}]} 
+2025-10-06 14:38:19.4142 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:22.7080 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:23.8583 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:24.4998 INFO 	RegistryCalls. GetRegDriverInfo Driver Install Path :C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_7d45d8b55cb0c546 
+2025-10-06 14:38:25.7921 INFO 	RegistryCalls. GetRegDriverInfo Driver Install Path :C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_7d45d8b55cb0c546 
+2025-10-06 14:38:26.4649 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:26.5287 DEBUG 	GlobalSettings. GetGlobalSettings: Getting global settings 
+2025-10-06 14:38:26.5287 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:26.5999 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:26.5999 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:26.5999 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:26.5999 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:26.5999 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:26.6152 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:26.6382 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:26.7071 DEBUG 	GlobalSettings. GetGlobalSettings: Getting global settings 
+2025-10-06 14:38:26.7134 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:26.8452 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:26.8452 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:26.8496 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:26.8496 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:26.8496 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:26.8496 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:26.8496 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:26.8786 ERROR 	DisplayCollage. GetShowBezelFromRegistry : reading registry failed.  
+2025-10-06 14:38:26.8910 ERROR 	DisplayCollage. GetBezelValuesFromRegistry : reading registry failed.  
+2025-10-06 14:38:27.1730 INFO 	RegistryCalls. GetRegDriverInfo Driver Install Path :C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_7d45d8b55cb0c546 
+2025-10-06 14:38:27.1804 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:27.8234 DEBUG 	GlobalSettings. GetGlobalSettings: Getting global settings 
+2025-10-06 14:38:27.8234 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:27.8938 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:27.8958 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:27.8958 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:27.8958 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:27.8958 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:27.8958 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:27.8958 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:27.8958 DEBUG 	GlobalSettings. GetGlobalSettings: Getting global settings 
+2025-10-06 14:38:27.9130 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:28.0410 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:28.0410 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:28.0410 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:28.0519 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:28.0519 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:28.0519 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:28.0519 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:28.2947 DEBUG 	DSAManager. GetDriverUpdateDataAsync. InputPayload:{"Language":"fr","Country":"fr","AppDataPath":"C:\\Users\\medta\\AppData\\Local\\Packages\\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\\LocalState"} 
+2025-10-06 14:38:28.3032 DEBUG 	DSAManager. GetDriverUpdateDataAsync. Connecting IDSA client 
+2025-10-06 14:38:28.3500 ERROR 	DSAManager. GetDriverUpdateDataAsync. Exception:Il n'existait pas de point de terminaison à l'écoute sur net.pipe://localhost/dsa/external pouvant accepter le message. Ceci est souvent dû à une adresse ou une action SOAP incorrecte. S'il est présent, voir l'élément InnerException pour plus d'informations.System.IO.PipeException: Le point de terminaison du canal 'net.pipe://localhost/dsa/external' est introuvable sur la machine locale.  
+2025-10-06 14:38:28.5493 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:28.6118 DEBUG 	RegistryCalls. EnableAutoEnhancePlayback. Done 
+2025-10-06 14:38:28.6118 DEBUG 	VideoCalls. SetAllVideoSettings. Writing Win OS video settings done: 
+2025-10-06 14:38:28.6153 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:28.7606 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:28.7606 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:28.7606 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:28.7606 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:28.7606 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:28.7606 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:28.7606 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:28.7606 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:28.7606 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:28.7606 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:28.7606 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:28.7606 ERROR 	RegistryCalls. GetDWORDQWORDValueFromRegistry. Exception:La clé de Registre spécifiée n'existe pas. 
+2025-10-06 14:38:28.7606 DEBUG 	DisplaySvcInterface. GetDisplayColorData. No record found for displayId 8388688 
+2025-10-06 14:38:28.7749 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:29.4072 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:29.4072 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:29.4259 INFO 	EscapeCallYangra. GetDPSParams 1 
+2025-10-06 14:38:29.4372 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:29.4504 INFO 	EscapeCallYangra. GetDPSParams 1 
+2025-10-06 14:38:29.4617 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:29.4756 INFO 	EscapeCallYangra. GetDPSParams 1 
+2025-10-06 14:38:29.4756 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:29.5021 INFO 	EscapeCallYangra. GetDPSParams 1 
+2025-10-06 14:38:29.5134 INFO 	CorePowerManager. GetAllInitializationFeatures. Queried properties for all adapters. Properties list: {"PowerFeatureSettings":[{"enabledDCFeatures":{"(DC, Balanced)":{"Reserved":false,"DPST":true,"LACE":true,"CXSR":false,"FBC":false,"GSV":true,"DPS":true,"RS":true,"PSR":true,"IPS":false,"SS":false,"DFPS":false,"ADT":false,"PVQC":false,"DCC":true,"SLPM":true,"DPSTLevel":6,"EPSM":true,"MinDpstLevel":1,"MaxDpstLevel":6,"DPSPARAMS":{"IsMFD":0,"IsSupportForStaticDRRS":0,"NumOfRefreshRates":1,"DpsRefreshRate0":0,"DpsRefreshRate1":0,"DpsRefreshRate2":0,"DpsRefreshRate3":0,"DpsRefreshRate4":0,"DpsRefreshRate5":0,"DpsRefreshRate6":0,"DpsRefreshRate7":0,"DpsRefreshRate8":0,"DpsRefreshRate9":0,"LastUserSelectedModeSetRR":144,"BaseLowRefreshRate":60,"DpsParamsReturnCode":0,"DpsRefreshRates":[60,0,0,0,0,0,2,0,0,0]},"AdaptiveBrightness":false}},"supportedDCFeatures":{"(DC, Balanced)":{"Reserved":false,"DPST":true,"LACE":true,"CXSR":false,"FBC":false,"GSV":true,"DPS":false,"RS":true,"PSR":true,"IPS":false,"SS":false,"DFPS":false,"ADT":false,"PVQC":false,"DCC":true,"SLPM":true,"DPSTLevel":6,"EPSM":true,"MinDpstLevel":1,"MaxDpstLevel":6,"DPSPARAMS":{"IsMFD":0,"IsSupportForStaticDRRS":0,"NumOfRefreshRates":1,"DpsRefreshRate0":0,"DpsRefreshRate1":0,"DpsRefreshRate2":0,"DpsRefreshRate3":0,"DpsRefreshRate4":0,"DpsRefreshRate5":0,"DpsRefreshRate6":0,"DpsRefreshRate7":0,"DpsRefreshRate8":0,"DpsRefreshRate9":0,"LastUserSelectedModeSetRR":144,"BaseLowRefreshRate":60,"DpsParamsReturnCode":0,"DpsRefreshRates":[60,0,0,0,0,0,2,0,0,0]},"AdaptiveBrightness":false}},"enabledACFeatures":{"(AC, Balanced)":{"Reserved":false,"DPST":true,"LACE":true,"CXSR":false,"FBC":false,"GSV":true,"DPS":true,"RS":true,"PSR":true,"IPS":false,"SS":false,"DFPS":false,"ADT":false,"PVQC":false,"DCC":true,"SLPM":true,"DPSTLevel":6,"EPSM":false,"MinDpstLevel":1,"MaxDpstLevel":6,"DPSPARAMS":{"IsMFD":0,"IsSupportForStaticDRRS":0,"NumOfRefreshRates":1,"DpsRefreshRate0":0,"DpsRefreshRate1":0,"DpsRefreshRate2":0,"DpsRefreshRate3":0,"DpsRefreshRate4":0,"DpsRefreshRate5":0,"DpsRefreshRate6":0,"DpsRefreshRate7":0,"DpsRefreshRate8":0,"DpsRefreshRate9":0,"LastUserSelectedModeSetRR":144,"BaseLowRefreshRate":60,"DpsParamsReturnCode":0,"DpsRefreshRates":[60,0,0,0,0,0,2,0,0,0]},"AdaptiveBrightness":false}},"supportedACFeatures":{"(AC, Balanced)":{"Reserved":false,"DPST":true,"LACE":true,"CXSR":false,"FBC":false,"GSV":true,"DPS":false,"RS":true,"PSR":true,"IPS":false,"SS":false,"DFPS":false,"ADT":false,"PVQC":false,"DCC":true,"SLPM":true,"DPSTLevel":6,"EPSM":false,"MinDpstLevel":1,"MaxDpstLevel":6,"DPSPARAMS":{"IsMFD":0,"IsSupportForStaticDRRS":0,"NumOfRefreshRates":1,"DpsRefreshRate0":0,"DpsRefreshRate1":0,"DpsRefreshRate2":0,"DpsRefreshRate3":0,"DpsRefreshRate4":0,"DpsRefreshRate5":0,"DpsRefreshRate6":0,"DpsRefreshRate7":0,"DpsRefreshRate8":0,"DpsRefreshRate9":0,"LastUserSelectedModeSetRR":144,"BaseLowRefreshRate":60,"DpsParamsReturnCode":0,"DpsRefreshRates":[60,0,0,0,0,0,2,0,0,0]},"AdaptiveBrightness":false}},"dcActivePlan":1,"acActivePlan":1,"_isConnectedStandby":true,"_platformType":3,"_adapterID":{"LowPart":74121,"HighPart":0}}]} 
+2025-10-06 14:38:45.8328 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:45.8542 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:45.8542 ERROR 	DataAccessService. D3DDataSaveAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:45.8542 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:45.8542 ERROR 	DataAccessService. D3DDataSaveAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:53.1065 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:53.1065 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:53.1065 ERROR 	DataAccessService. D3DDataSaveAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:53.1065 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:53.1065 ERROR 	DataAccessService. D3DDataSaveAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:54.8754 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:54.8754 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:54.8754 ERROR 	DataAccessService. D3DDataSaveAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:54.8808 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:54.8808 ERROR 	DataAccessService. D3DDataSaveAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:55.1771 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:55.1771 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:55.1771 ERROR 	DataAccessService. D3DDataSaveAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:55.1771 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:55.1771 ERROR 	DataAccessService. D3DDataSaveAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:56.5275 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:56.5275 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:56.5275 ERROR 	DataAccessService. D3DDataSaveAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:56.5275 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:56.5275 ERROR 	DataAccessService. D3DDataSaveAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:57.4465 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:57.4465 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:57.4465 ERROR 	DataAccessService. D3DDataSaveAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:57.4465 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:57.4465 ERROR 	DataAccessService. D3DDataSaveAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:58.0821 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:58.0866 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:58.0866 ERROR 	DataAccessService. D3DDataSaveAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:58.0866 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:58.0866 ERROR 	DataAccessService. D3DDataSaveAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:58.6413 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:38:58.6457 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:58.6457 ERROR 	DataAccessService. D3DDataSaveAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:38:58.6457 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:38:58.6457 ERROR 	DataAccessService. D3DDataSaveAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:39:09.6809 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 14:39:09.6809 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:39:09.6809 ERROR 	DataAccessService. D3DDataSaveAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 14:39:09.6809 ERROR 	DataAccessService. GetConnectionString. Exception:Accès au registre demandé non autorisé. 
+2025-10-06 14:39:09.6809 ERROR 	DataAccessService. D3DDataSaveAsync. Exception:EngineSettings must have Filename or DataStream as data source 
+2025-10-06 15:08:01.1349 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 15:08:02.8913 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 15:08:02.9484 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 15:08:02.9728 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 15:08:03.0956 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 15:08:03.0956 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 15:08:03.1020 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 15:08:03.1020 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 15:47:02.6713 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 15:47:03.5008 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 15:47:03.6227 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 15:47:03.7848 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 15:47:03.8157 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 15:47:03.8196 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 15:47:03.8196 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 
+2025-10-06 15:47:03.8384 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: NotImplemented:0xC0000002 

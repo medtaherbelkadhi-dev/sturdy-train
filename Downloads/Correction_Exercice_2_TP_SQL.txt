@@ -1,0 +1,139 @@
+CREATE TABLE Etudiant (
+    numEtu NUMBER(6) CONSTRAINT PK_Etudiant PRIMARY KEY,
+    nomEtu VARCHAR2(20),
+    prenomEtu VARCHAR2(20),
+    age NUMBER(2) ,
+    genre CHAR(1) CONSTRAINT CHK_genre CHECK (UPPER(genre) IN ('M', 'F'))
+);
+
+CREATE TABLE Enseignant (
+    numEns NUMBER(6) CONSTRAINT PK_Enseignant PRIMARY KEY,
+    nomEns VARCHAR2(30),
+    prenomEns VARCHAR2(30),
+    grade CHAR(3)CONSTRAINT CHK_grade CHECK (UPPER(grade) IN ('ASS', 'MCF', 'PRO'))
+);
+
+alter table etudiant rename column age to dat_naiss ;
+
+alter table etudiant modify dat_naiss DATE ;
+
+
+CREATE TABLE Matiere (
+    numMat NUMBER(4)CONSTRAINT PK_Matiere PRIMARY KEY,
+    nomMat VARCHAR2(25),
+    coefficient NUMBER(1) CONSTRAINT CHK_coeff CHECK (coefficient BETWEEN 1 AND 9),
+    numEns NUMBER(6),
+    CONSTRAINT fk_matiere_enseignant FOREIGN KEY (numEns) REFERENCES Enseignant(numEns)
+);
+
+CREATE TABLE Evaluation (
+    numEtu NUMBER(6),
+    numMat NUMBER(4),
+    note NUMBER(4,2) CONSTRAINT CHK_note CHECK (note BETWEEN 0 AND 20),
+    CONSTRAINT Pk_evaluation PRIMARY KEY (numEtu, numMat),
+    CONSTRAINT Fk_evaluation_etudiant FOREIGN KEY (numEtu) REFERENCES Etudiant(numEtu),
+    CONSTRAINT Fk_evaluation_matiere FOREIGN KEY (numMat) REFERENCES Matiere(numMat)
+);
+                        
+-- Définir le format de la date à 'DD/MM/YYYY'
+ALTER SESSION SET NLS_DATE_FORMMAT ='DD/MM/YYYY';
+-- Insertion des tuples
+INSERT INTO Etudiant (numEtu, nomEtu, prenomEtu, dat_naiss, genre) VALUES (100001, 'Dupont', 'Jean', '20/10/2000', 'M');
+INSERT INTO Etudiant (numEtu, nomEtu, prenomEtu, dat_naiss, genre) VALUES (100002, 'Martin', 'Alice', '21/03/1965', 'F');
+INSERT INTO Etudiant (numEtu, nomEtu, prenomEtu, dat_naiss, genre) VALUES (100003, 'Dupont', 'Marie', '19/02/1983', 'F');
+INSERT INTO Etudiant (numEtu, nomEtu, prenomEtu, dat_naiss, genre) VALUES (100004, 'Leroy', 'Paul', '22/11/2001', 'M');
+INSERT INTO Etudiant (numEtu, nomEtu, prenomEtu, dat_naiss, genre) VALUES (100005, 'Marchal', 'Brad', '07/12/2002', 'M');
+
+INSERT INTO Enseignant (numEns, nomEns, prenomEns, grade) VALUES (200001, 'Smith', 'John', 'PRO');
+INSERT INTO Enseignant (numEns, nomEns, prenomEns, grade) VALUES (200002, 'Johnson', 'Emily', 'MCF');
+INSERT INTO Enseignant (numEns, nomEns, prenomEns, grade) VALUES (200003, 'Williams', 'David', 'ASS');
+INSERT INTO Enseignant (numEns, nomEns, prenomEns, grade) VALUES (200004, 'Brown', 'Sophia', 'PRO');
+INSERT INTO Enseignant (numEns, nomEns, prenomEns, grade) VALUES (200005, 'Bruce', 'Lyam', 'PRO');
+
+INSERT INTO Matiere (numMat, nomMat, coefficient, numEns) VALUES (3001, 'Mathématiques', 3, 200001);
+INSERT INTO Matiere (numMat, nomMat, coefficient, numEns) VALUES (3002, 'Physique', 2, 200002);
+INSERT INTO Matiere (numMat, nomMat, coefficient, numEns) VALUES (3003, 'Informatique', 3, 200001);
+INSERT INTO Matiere (numMat, nomMat, coefficient, numEns) VALUES (3004, 'Chimie', 2, 200003);
+INSERT INTO Matiere (numMat, nomMat, coefficient, numEns) VALUES (3005, 'Biologie', 1, 200004);
+
+INSERT INTO Evaluation (numEtu, numMat, note) VALUES (100001, 3001, 15.5);
+INSERT INTO Evaluation (numEtu, numMat, note) VALUES (100001, 3002, 12.0);
+INSERT INTO Evaluation (numEtu, numMat, note) VALUES (100001, 3003, 18.0);
+INSERT INTO Evaluation (numEtu, numMat, note) VALUES (100001, 3004, 14.5);
+INSERT INTO Evaluation (numEtu, numMat, note) VALUES (100001, 3005, 17.0);
+INSERT INTO Evaluation (numEtu, numMat, note) VALUES (100002, 3001, 10.0);
+INSERT INTO Evaluation (numEtu, numMat, note) VALUES (100002, 3002, 14.5);
+INSERT INTO Evaluation (numEtu, numMat, note) VALUES (100003, 3001, 8.0);
+INSERT INTO Evaluation (numEtu, numMat, note) VALUES (100003, 3003, 9.5);
+INSERT INTO Evaluation (numEtu, numMat, note) VALUES (100004, 3001, 16.0);
+INSERT INTO Evaluation (numEtu, numMat, note) VALUES (100004, 3002, 17.0);
+INSERT INTO Evaluation (numEtu, numMat, note) VALUES (100004, 3004, 13.0);
+ 
+  
+--a. la liste de tous les étudiants triés par ordre croissant du nom et croissant du prénom.
+SELECT * from Etudiant order by nomEtu asc, prenomEtu asc;
+--b. la liste des couples de noms matières qui ont le même coefficient et afficher le
+--coefficient.
+SELECT a.nomMat, b.nomMat, a.coefficient 
+from Matiere a, Matiere b 
+where a.coefficient = b.coefficient and a.numMat < b.numMat;
+--c. La liste de tous les enseignants sans exceptions et les noms des matières qu’ils
+--enseignent. (en tenant compte des enseignants non affectés à des matières).
+SELECT e.* , m.nommat
+from enseignant e LEFT OUTER JOIN matiere m
+on (e.numens = m.numens);
+-- ou en utilisant l'opérateur de jointure externe (+) 
+SELECT e.* , m.nommat
+FROM enseignant e , matiere m
+WHERE e.numens = m.numens(+);
+--d. la liste des matières enseignées par enseignant.
+SELECT m.nomMat, e.nomEns, e.prenomEns 
+FROM Matiere m join enseignant e on m.numEns = e.numEns
+ORDER BY e.nomEns;
+--e. le nombre d'enseignants par grade
+SELECT grade, COUNT(*) as nb_enseignants 
+FROM Enseignant 
+GROUP BY grade;
+--f. la moyenne, par étudiant, arrondie à deux chiffres après la virgule [ROUND(…, 2)] .
+--Définir un alias de colonne.
+-- Solution 1 : supposant que tous les étudiants ont été évalués sur toutes les matières
+-- NVL(e.note,0) remplace toute note non renseignée par un zéro.
+SELECT e.numetu ,ROUND(sum(NVL(e.note,0) * m.coefficient)/sum(m.coefficient),2) AS moyenne
+FROM matiere m , evaluation e
+WHERE m.nummat = e.nummat 
+GROUP BY e.numetu ;
+-- Solution 2 : supposant que PAS tous les étudiants ont été évalués sur toutes les matières
+-- En considérant aussi les étudiants qui n'ont jamais été évalué.
+-- NVL(e.note,0) remplace toute note d'une matière non évaluée par un zéro.
+-- la sous-requête (SELECT sum(coefficient)FROM Matiere) me permet de diviser 
+-- toujours par la somme des coéfficients de toutes les matières, 
+-- même celles non évaluées pour un étudiant.
+
+SELECT a.numetu ,NVL(ROUND(sum(NVL(e.note,0) * m.coefficient)/
+(SELECT sum(coefficient)FROM Matiere),2) ,0) AS moyenne
+FROM matiere m , evaluation e, etudiant a
+WHERE m.nummat(+) = e.nummat 
+AND a.numetu = e.numetu (+)
+GROUP BY a.numetu ;
+--g. La proportion des étudiants ayant une moyenne supérieure à 10.
+-- Utilisation d'une vue pour faciliter l'écriture de la requête. 
+-- La vue prend en considération le calcul de la moyenne pour tous les étudiants
+
+CREATE OR REPLACE VIEW MoyenneEtudiant
+AS
+SELECT a.numetu ,NVL(ROUND(sum(NVL(e.note,0) * m.coefficient)/
+(SELECT sum(coefficient)FROM Matiere),2) ,0) AS moyenne
+FROM matiere m , evaluation e, etudiant a
+WHERE m.nummat(+) = e.nummat 
+AND a.numetu = e.numetu (+)
+GROUP BY a.numetu ;
+
+SELECT * FROM MoyenneEtudiant;
+-- Calcul de la proportion en pourcentage
+SELECT ( a.NbreEtudMoySupDix / b.NbreTotal *100 ) AS "Proportion en %"
+FROM ( SELECT COUNT(*) AS NbreEtudMoySupDix FROM MoyenneEtudiant WHERE moyenne >10) a,
+     ( SELECT COUNT(*) AS NbreTotal FROM MoyenneEtudiant ) b ;
+-- ou 
+SELECT ROUND(( SELECT COUNT(*) AS NbreEtudMoySupDix FROM MoyenneEtudiant WHERE moyenne >10) /
+     ( SELECT COUNT(*) AS NbreTotal FROM MoyenneEtudiant ) *100 ,2) AS "Proportion en %"
+FROM  DUAL; 

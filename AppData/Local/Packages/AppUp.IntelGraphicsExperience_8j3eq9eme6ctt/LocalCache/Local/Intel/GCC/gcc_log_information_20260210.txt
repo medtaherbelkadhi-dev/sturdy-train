@@ -1,0 +1,20 @@
+2026-02-10 13:05:25.837 +01:00 [INF] 	SingleInstanceApp. Mutex Name: Global\IGESystrayExtensionMutex_HP
+2026-02-10 13:05:25.905 +01:00 [INF] 	SingleInstanceApp. Pipe Name: IGESystrayPipe_HP
+2026-02-10 13:05:25.946 +01:00 [INF] 	SystrayAppContext. SystrayAppContext. SystemTrayForm. Initializing BST.
+2026-02-10 13:05:26.006 +01:00 [INF] 	Startup. Startup beginning.
+2026-02-10 13:05:26.076 +01:00 [INF] 	BaseServiceHandler. ServiceAvailability. Checking is Svc available
+2026-02-10 13:05:27.162 +01:00 [INF] 	PowerStartup. Doing PowerStartup.
+2026-02-10 13:05:29.805 +01:00 [INF] 	LoggingStartup. 
+----------------------------------------------Features--------------------------------------------------------
+AlwaysShowAdapter: Disabled
+Async Compute: Disabled
+Bezel: Enabled
+CustomThemesEnabled: Disabled
+DSANotification: Disabled
+LightMode: Disabled
+Survey: Disabled
+UseBetaSurvey: Disabled
+--------------------------------------------------------------------------------------------------------------
+
+2026-02-10 13:05:29.805 +01:00 [INF] 	Startup. Startup finished.
+2026-02-10 13:05:30.016 +01:00 [INF] 	PreferencesTable. GetPreferencesSettingAsync. EnableTrayIcon Record not found

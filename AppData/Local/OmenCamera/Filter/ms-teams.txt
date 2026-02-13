@@ -1,0 +1,34 @@
+﻿2025-07-28 08:37:16.018 INFO  [15476] [InitLog@251] -------------------------------- create a new logger!
+2025-07-28 08:37:16.018 INFO  [15476] [InitLog@252] processName = ms-teams
+2025-07-28 08:37:16.018 INFO  [15476] [InitLog@269] -------------------------------- InitLog()
+2025-07-28 08:37:16.018 INFO  [15476] [InitLog@270] Process Path: C:\Program Files\WindowsApps\MSTeams_25072.1611.3570.1995_x64__8wekyb3d8bbwe\ms-teams.exe
+2025-07-28 08:37:16.018 INFO  [15476] [QueryConfig@29] QueryConfig()
+2025-07-28 08:37:16.018 INFO  [15476] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-07-28 08:37:16.018 INFO  [15476] [QueryConfig@58] Width = 1920
+2025-07-28 08:37:16.018 INFO  [15476] [QueryConfig@59] Height = 1080
+2025-07-28 08:37:16.018 INFO  [15476] [QueryConfig@60] Fps = 30
+2025-07-28 08:37:16.018 INFO  [15476] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-07-28 08:37:16.018 INFO  [15476] [CVCam::CVCam@355] CVCam::CVCam()
+2025-07-28 08:37:16.018 INFO  [15476] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-07-28 08:37:16.018 INFO  [15476] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-07-28 08:37:16.018 INFO  [15476] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-07-28 08:37:16.018 INFO  [15476] [CVCamStream::~CVCamStream@406] ~CVCamStream()
+2025-07-28 08:37:20.996 INFO  [15476] [InitLog@228] -------------------------------- using existing logger!
+2025-07-28 08:37:20.996 INFO  [15476] [InitLog@269] -------------------------------- InitLog()
+2025-07-28 08:37:20.996 INFO  [15476] [InitLog@270] Process Path: C:\Program Files\WindowsApps\MSTeams_25072.1611.3570.1995_x64__8wekyb3d8bbwe\ms-teams.exe
+2025-07-28 08:37:20.996 INFO  [15476] [QueryConfig@29] QueryConfig()
+2025-07-28 08:37:20.996 INFO  [15476] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-07-28 08:37:20.996 INFO  [15476] [QueryConfig@58] Width = 1920
+2025-07-28 08:37:20.996 INFO  [15476] [QueryConfig@59] Height = 1080
+2025-07-28 08:37:20.996 INFO  [15476] [QueryConfig@60] Fps = 30
+2025-07-28 08:37:20.996 INFO  [15476] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-07-28 08:37:20.996 INFO  [15476] [CVCam::CVCam@355] CVCam::CVCam()
+2025-07-28 08:37:20.996 INFO  [15476] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-07-28 08:37:20.996 INFO  [15476] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-07-28 08:37:20.996 INFO  [15476] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-28 08:37:20.997 INFO  [15476] [CVCamStream::Get@827] CVCamStream::Get()
+2025-07-28 08:37:20.997 INFO  [15476] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-28 08:37:20.997 INFO  [15476] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-07-28 08:37:20.997 INFO  [15476] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-07-28 08:37:20.997 INFO  [15476] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-07-28 08:37:20.997 INFO  [15476] [CVCamStream::~CVCamStream@406] ~CVCamStream()

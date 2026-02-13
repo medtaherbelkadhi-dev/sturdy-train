@@ -1,0 +1,22 @@
+﻿2025-07-28 08:37:21.893 INFO  [15056] [InitLog@251] -------------------------------- create a new logger!
+2025-07-28 08:37:21.894 INFO  [15056] [InitLog@252] processName = msedgewebview2
+2025-07-28 08:37:21.894 INFO  [15056] [InitLog@269] -------------------------------- InitLog()
+2025-07-28 08:37:21.894 INFO  [15056] [InitLog@270] Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.95\msedgewebview2.exe
+2025-07-28 08:37:21.894 INFO  [15056] [QueryConfig@29] QueryConfig()
+2025-07-28 08:37:21.894 INFO  [15056] [QueryConfig@45] filePath = C:\Users\medta\AppData\Local\Packages\AD2F1837.OMENCommandCenter_v10z8vjag6ke6\LocalCache\Local\OmenCameraConfig\ResolutionData.json
+2025-07-28 08:37:21.894 INFO  [15056] [QueryConfig@58] Width = 1920
+2025-07-28 08:37:21.894 INFO  [15056] [QueryConfig@59] Height = 1080
+2025-07-28 08:37:21.894 INFO  [15056] [QueryConfig@60] Fps = 30
+2025-07-28 08:37:21.894 INFO  [15056] [CVCam::CreateInstance@346] CVCam::CreateInstance()
+2025-07-28 08:37:21.894 INFO  [15056] [CVCam::CVCam@355] CVCam::CVCam()
+2025-07-28 08:37:21.894 INFO  [15056] [CVCamStream::CVCamStream@394] CVCamStream()
+2025-07-28 08:37:21.894 INFO  [15056] [CVCamStream::GetMediaType@536] CVCamStream::GetMediaType(), iPosition = 4
+2025-07-28 08:37:21.894 INFO  [15056] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-28 08:37:21.894 INFO  [15056] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-28 08:37:21.894 INFO  [15056] [CVCamStream::Get@827] CVCamStream::Get()
+2025-07-28 08:37:21.894 INFO  [15056] [CVCamStream::QueryInterface@413] CVCamStream::QueryInterface()
+2025-07-28 08:37:21.894 INFO  [15056] [CVCam::QueryInterface@371] CVCam::QueryInterface()
+2025-07-28 08:37:21.894 INFO  [15056] [CVCamStream::GetNumberOfCapabilities@729] CVCamStream::GetNumberOfCapabilities()
+2025-07-28 08:37:21.894 INFO  [15056] [CVCamStream::GetStreamCaps@738] CVCamStream::GetStreamCaps(), iIndex = 0
+2025-07-28 08:37:21.894 INFO  [15056] [CVCam::~CVCam@366] CVCam::~CVCam()
+2025-07-28 08:37:21.894 INFO  [15056] [CVCamStream::~CVCamStream@406] ~CVCamStream()
